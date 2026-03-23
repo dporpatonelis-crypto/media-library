@@ -99,56 +99,6 @@ JSON εφαρμογών με συμπληρωμένα media URLs
 
 ---
 
-## 🔧 Εγκατάσταση Apps Script
-
-### Προαπαιτούμενα
-
-- Google Sheet με tab ονόματι **📚 Media Library**
-- GitHub Personal Access Token (classic) με scope **`repo`**
-
-### Βήμα 1 — Άνοιξε τον Apps Script editor
-
-Στο Google Sheet:  
-**Extensions → Apps Script**
-
-Ανοίγει νέα καρτέλα με τον editor.
-
-### Βήμα 2 — Επικόλλησε τον κώδικα
-
-1. Διέγραψε ό,τι υπάρχει (`function myFunction() {}`)
-2. Επικόλλησε ολόκληρο τον κώδικα του `MediaLibrary_AppScript.js`
-3. **Ctrl+S** για αποθήκευση
-
-### Βήμα 3 — Βάλε το GitHub Token
-
-Βρες τη γραμμή:
-```javascript
-GITHUB_TOKEN: '',  // ← εδώ
-```
-Βάλε το token σου:
-```javascript
-GITHUB_TOKEN: 'ghp_xxxxxxxxxxxxxxxxxxxx',
-```
-
-> ⚠️ **Ποτέ μην κάνεις commit τον κώδικα με το token στο GitHub.** Το script μένει μόνο στο Google Sheet.
-
-### Βήμα 4 — Πρώτη εκτέλεση (permissions)
-
-Στον editor:
-1. Από το dropdown επίλεξε `onOpen`
-2. Πάτα **▶ Run**
-3. Θα εμφανιστεί παράθυρο — επίλεξε **Review permissions → Allow**
-
-Αυτό γίνεται **μόνο μία φορά**.
-
-### Βήμα 5 — Επιστροφή στο Sheet
-
-1. Κλείσε τον editor
-2. **F5** ή ανανέωσε τη σελίδα
-3. Θα εμφανιστεί νέο μενού **📚 Media Library** στη γραμμή μενού
-
----
-
 ## 🚀 Καθημερινή χρήση
 
 ### Προσθήκη νέου media
@@ -201,7 +151,18 @@ https://raw.githubusercontent.com/dporpatonelis-crypto/media-library/refs/heads/
 | `interactive_book` | Mind Palace | layers reference |
 
 ---
+## 🎯 Orchestrator v4 — Media modes
 
+**Auto mode**: Αναλύει το θέμα μαθήματος, βρίσκει κατάλληλα media  
+βάσει τίτλου, tags και app_context, και τα περνά αυτόματα στο JSON.
+
+**Pick mode**: Εμφανίζει λίστα checkboxes πριν τη δημιουργία.  
+Επιλέγεις χειροκίνητα ποια media θέλεις — μετά παράγει το JSON.
+
+Μετά κάθε δημιουργία εμφανίζεται **media strip**:  
+`✓ IMG-002` = χρησιμοποιήθηκε · `○ IMG-003 κενό` = δεν αντιστοιχίστηκε.
+
+---
 ## 📅 Ιστορικό εκδόσεων
 
 | Ημερομηνία | Έκδοση | Αλλαγές |
