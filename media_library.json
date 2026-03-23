@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
+    "version": "1.0",
+    "last_updated": "2026-03-23",
+    "total": 11
+  },
+  "media": [
+    {
+      "media_id": "VID-001",
+      "type": "youtube",
+      "title": "Sixtina — Εικονογραφία Μιχαήλ Άγγελου",
+      "url": "https://youtube.com/...",
+      "source_platform": "YouTube",
+      "app_context": [
+        "Mind Palace",
+        "Explorer"
+      ],
+      "unit_id": "U02",
+      "tags": [
+        "sixtina",
+        "εικονογραφία",
+        "αναγέννηση"
+      ],
+      "language": "el",
+      "notes": "Indiana Jones ref",
+      "date_added": "2026-03-16",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-001",
+      "type": "google_slides",
+      "title": "Μ. Βασίλειος — Θεολογικές Έννοιες",
+      "url": "https://docs.google.com/...",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Mind Palace"
+      ],
+      "unit_id": "U01",
+      "tags": [
+        "βασίλειος",
+        "πατερική",
+        "θεολογία"
+      ],
+      "language": "el",
+      "notes": "1ο slide → AppScript",
+      "date_added": "2026-03-16",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-001",
+      "type": "image",
+      "title": "Capella Sistina — Δημιουργία Αδάμ",
+      "url": "https://i.ibb.co/...",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Explorer",
+        "Timeline"
+      ],
+      "unit_id": "U02",
+      "tags": [
+        "sixtina",
+        "αδάμ",
+        "μιχαήλ άγγελος"
+      ],
+      "language": "el",
+      "notes": "",
+      "date_added": "2026-03-16",
+      "status": "active"
+    },
+    {
+      "media_id": "HTML-001",
+      "type": "interactive_book",
+      "title": "Interactive Book — Βασίλειος Ch.1",
+      "url": "https://username.github.io/...",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Mind Palace"
+      ],
+      "unit_id": "U01",
+      "tags": [
+        "βασίλειος",
+        "interactive"
+      ],
+      "language": "el",
+      "notes": "books.json manifest",
+      "date_added": "2026-03-16",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-002",
+      "type": "youtube",
+      "title": "Γρηγόριος Νύσσης — Τριαδολογία, σχέση με Πλάτωνα",
+      "url": "https://youtu.be/Ftr5AbtSxWE",
+      "source_platform": "YouTube",
+      "app_context": [
+        "Explorer History",
+        "Console",
+        "Interactive Book"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Γρηγόριος Νύσσης",
+        "πατέρας εκκλησίας",
+        "4ος αιώνας",
+        "Τριαδολογία",
+        "Νεοπλατωνισμός",
+        "φιλοσοφία",
+        "Καππαδόκες"
+      ],
+      "language": "el",
+      "notes": "UE5 εξαιρέθηκε — γενική καταχώριση",
+      "date_added": "2026-03-19",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-002",
+      "type": "image",
+      "title": "Δελφοί — Χάρτης Κλασικής Ελλάδας",
+      "url": "https://i.ibb.co/h1mwhLDV/Mapping-Classical-Greece-7.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map",
+        "Interactive Book"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Δελφοί",
+        "τόπος",
+        "αρχαία Ελλάδα",
+        "8ος–4ος αιώνας π.Χ.",
+        "μαντείο",
+        "θρησκεία αρχαία",
+        "χάρτης"
+      ],
+      "language": "el",
+      "notes": "Από παρουσίαση Mapping Classical Greece",
+      "date_added": "2026-03-19",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-003",
+      "type": "image",
+      "title": "Ολυμπία — Χάρτης Κλασικής Ελλάδας",
+      "url": "https://i.ibb.co/7xQJ0dGf/Mapping-Classical-Greece.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Ολυμπία",
+        "τόπος",
+        "αρχαία Ελλάδα",
+        "8ος–4ος αιώνας π.Χ.",
+        "αθλητισμός",
+        "λατρεία Δία",
+        "χάρτης"
+      ],
+      "language": "el",
+      "notes": "Από παρουσίαση Mapping Classical Greece",
+      "date_added": "2026-03-19",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-004",
+      "type": "image",
+      "title": "Παράδοση ιδεών και επιρροές — διάγραμμα",
+      "url": "https://i.ibb.co/k28pSzCJ/Digital-Knowledge-Archaeology-pptx-5.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map",
+        "Interactive Book"
+      ],
+      "unit_id": "",
+      "tags": [
+        "ιστορία ιδεών",
+        "επιρροές",
+        "φιλοσοφία",
+        "παράδοση",
+        "διάγραμμα",
+        "διαχρονικό"
+      ],
+      "language": "el",
+      "notes": "Από παρουσίαση Digital Knowledge Archaeology",
+      "date_added": "2026-03-19",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-005",
+      "type": "image",
+      "title": "Ρώμη — Χάρτης Εκκλησιαστικής Ιστορίας",
+      "url": "https://i.ibb.co/8n5GgsCV/Two-Millennia-of-Church-History-pptx.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Console"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Ρώμη",
+        "τόπος",
+        "1ος–5ος αιώνας",
+        "εκκλησιαστική ιστορία",
+        "χάρτης",
+        "Δυτική Εκκλησία"
+      ],
+      "language": "el",
+      "notes": "Από παρουσίαση Two Millennia of Church History — κοινό URL με IMG-006/007",
+      "date_added": "2026-03-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-006",
+      "type": "image",
+      "title": "Αλεξάνδρεια — Χάρτης Εκκλησιαστικής Ιστορίας",
+      "url": "https://i.ibb.co/8n5GgsCV/Two-Millennia-of-Church-History-pptx.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Explorer History",
+        "Timeline Map",
+        "Interactive Book"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Αλεξάνδρεια",
+        "τόπος",
+        "1ος–5ος αιώνας",
+        "εκκλησιαστική ιστορία",
+        "χάρτης",
+        "Αλεξανδρινή σχολή",
+        "Αίγυπτος"
+      ],
+      "language": "el",
+      "notes": "Κοινό URL με IMG-005/007 — ίδια διαφάνεια παρουσίασης",
+      "date_added": "2026-03-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-007",
+      "type": "image",
+      "title": "Βυζάντιο — Χάρτης Εκκλησιαστικής Ιστορίας",
+      "url": "https://i.ibb.co/8n5GgsCV/Two-Millennia-of-Church-History-pptx.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Mind Palace",
+        "Console",
+        "Interactive Book"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Βυζάντιο",
+        "Κωνσταντινούπολη",
+        "τόπος",
+        "4ος–15ος αιώνας",
+        "εκκλησιαστική ιστορία",
+        "χάρτης",
+        "Ανατολική Εκκλησία"
+      ],
+      "language": "el",
+      "notes": "Κοινό URL με IMG-005/006 — ίδια διαφάνεια παρουσίασης",
+      "date_added": "2026-03-17",
+      "status": "active"
+    }
+  ]
+}
