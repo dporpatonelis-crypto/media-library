@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-03-23",
-    "total": 11
+    "last_updated": "2026-05-10",
+    "total": 14
   },
   "media": [
     {
@@ -267,6 +267,77 @@
       "language": "el",
       "notes": "Κοινό URL με IMG-005/006 — ίδια διαφάνεια παρουσίασης",
       "date_added": "2026-03-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-008",
+      "type": "image",
+      "title": "Αρχαία Αγορά Αθήνα",
+      "url": "https://i.ibb.co/4ZmrLG2J/1775331843223.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "UE5",
+        "Timeline Map",
+        "Console"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Αθήνα",
+        "αρχαία αγορά",
+        "Παύλος",
+        "1ος αιώνας",
+        "τόπος"
+      ],
+      "language": "el",
+      "notes": "Παύλος στην Αθήνα",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-009",
+      "type": "image",
+      "title": "Αρχαία Αθήνα — Ακρόπολη, Άγαλμα Αθηνάς",
+      "url": "https://i.ibb.co/KjgH0PWm/Screenshot-2026-05-09-14-13-53-871-com-android-chrome-edit.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "UE5",
+        "Timeline Map",
+        "Console"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Αθήνα",
+        "ακρόπολη",
+        "Αθηνά",
+        "άγαλμα",
+        "αρχαία Ελλάδα"
+      ],
+      "language": "el",
+      "notes": "Παύλος στην Αθήνα",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-010",
+      "type": "image",
+      "title": "Ραφαήλ — Σχολή Αθηνών",
+      "url": "https://i.ibb.co/cXsZqTDS/Screenshot-2026-05-09-13-31-02-474-com-android-chrome-edit.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "UE5",
+        "Timeline Map",
+        "Mind Palace"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Ραφαήλ",
+        "Σχολή Αθηνών",
+        "Αναγέννηση",
+        "φιλοσοφία"
+      ],
+      "language": "el",
+      "notes": "Παύλος στην Αθήνα",
+      "date_added": "2026-05-09",
       "status": "active"
     }
   ]
