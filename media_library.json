@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-05-10",
-    "total": 14
+    "total": 29
   },
   "media": [
     {
@@ -337,6 +337,381 @@
       ],
       "language": "el",
       "notes": "Παύλος στην Αθήνα",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-011",
+      "type": "image",
+      "title": "Εισαγωγή — Sacred Blueprint-Μετοχή στο θείο Ων",
+      "url": "https://i.ibb.co/nMwjVrmC/The-Sacred-Blueprint-page-0001.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-012",
+      "type": "image",
+      "title": "Σταθμός 1 — Πλάτων",
+      "url": "https://i.ibb.co/LDN0sWGp/The-Sacred-Blueprint-page-0002.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-013",
+      "type": "image",
+      "title": "Σταθμός 2 — Αριστοτέλης",
+      "url": "https://i.ibb.co/n861J2T2/The-Sacred-Blueprint-page-0003.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-014",
+      "type": "image",
+      "title": "Σταθμός 3 — Στωικισμός",
+      "url": "https://i.ibb.co/DfNrzJDf/The-Sacred-Blueprint-page-0004.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-015",
+      "type": "image",
+      "title": "Σταθμός 4 — Ιωάννης Θεολόγος",
+      "url": "https://i.ibb.co/q3Ty33Vq/The-Sacred-Blueprint-page-0005.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-016",
+      "type": "image",
+      "title": "Σταθμός 5 — Ωριγένης",
+      "url": "https://i.ibb.co/nNYp6P4B/The-Sacred-Blueprint-page-0006.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-017",
+      "type": "image",
+      "title": "Σταθμός 6 — Γρηγόριος Θεολόγος",
+      "url": "https://i.ibb.co/kgF5TZTx/The-Sacred-Blueprint-page-0007.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-018",
+      "type": "image",
+      "title": "Σταθμός 7 — Γρηγόριος Νύσσης",
+      "url": "https://i.ibb.co/TqcDJYxK/The-Sacred-Blueprint-page-0008.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-019",
+      "type": "image",
+      "title": "Σταθμός 8 — Διονύσιος Αρεοπαγίτης",
+      "url": "https://i.ibb.co/F49ZXsfF/The-Sacred-Blueprint-page-0009.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-020",
+      "type": "image",
+      "title": "Σταθμός 9 — Μάξιμος Ομολογητής",
+      "url": "https://i.ibb.co/pvGvV04f/The-Sacred-Blueprint-page-0010.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-021",
+      "type": "image",
+      "title": "Σταθμός 10 — Συμεών Νέος Θεολόγος",
+      "url": "https://i.ibb.co/twQyyfQP/The-Sacred-Blueprint-page-0011.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-022",
+      "type": "image",
+      "title": "Σταθμός 11 — Γρηγόριος Παλαμάς",
+      "url": "https://i.ibb.co/V0S43ngy/The-Sacred-Blueprint-page-0012.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-023",
+      "type": "image",
+      "title": "Sacred Blueprint — page 10",
+      "url": "https://i.ibb.co/6RDfMcx1/The-Sacred-Blueprint-page-0013.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-024",
+      "type": "image",
+      "title": "Sacred Blueprint — page 07",
+      "url": "https://i.ibb.co/PGmWDBjt/The-Sacred-Blueprint-page-0014.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
+      "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-025",
+      "type": "image",
+      "title": "Sacred Blueprint — page 04",
+      "url": "https://i.ibb.co/8nJp0wwB/The-Sacred-Blueprint-page-0015.jpg",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "θείο",
+        "φιλοσοφία",
+        "πατερική",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
       "date_added": "2026-05-09",
       "status": "active"
     }
