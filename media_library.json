@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-05-10",
-    "total": 29
+    "last_updated": "2026-06-28",
+    "total": 31
   },
   "media": [
     {
@@ -713,6 +713,44 @@
       "language": "el",
       "notes": "Sacred Blueprint series — Μετοχή στο Θείο Ον",
       "date_added": "2026-05-09",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-003",
+      "type": "youtube",
+      "title": "Εισαγωγή στην Πατερική Θεολογία",
+      "url": "https://www.youtube.com/watch?v=example1",
+      "source_platform": "YouTube",
+      "app_context": [],
+      "unit_id": "unit_01",
+      "tags": [
+        "πατερική",
+        "θεολογία",
+        "εισαγωγή",
+        "βίντεο"
+      ],
+      "language": "el",
+      "notes": "",
+      "date_added": "2026-05-26",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-002",
+      "type": "google_slides",
+      "title": "Φιλοσοφία και Χριστιανισμός",
+      "url": "https://docs.google.com/presentation/d/example2",
+      "source_platform": "Google Drive",
+      "app_context": [],
+      "unit_id": "unit_02",
+      "tags": [
+        "φιλοσοφία",
+        "χριστιανισμός",
+        "ύστερη αρχαιότητα",
+        "slides"
+      ],
+      "language": "el",
+      "notes": "",
+      "date_added": "2026-05-26",
       "status": "active"
     }
   ]
