@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-07-21",
-    "total": 43
+    "last_updated": "2026-08-11",
+    "total": 45
   },
   "media": [
     {
@@ -1018,6 +1018,73 @@
       "language": "el",
       "notes": "",
       "date_added": "2026-07-21",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-035",
+      "type": "image",
+      "title": "Timeline — Αλεξάνδρεια, Άρειος Πάγος και Κωνσταντινούπολη",
+      "url": "https://i.ibb.co/pBDYNtSX/Gemini-Generated-Image-h4xu0fh4xu0fh4xu.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Explorer History",
+        "Mind Palace",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Μέγας Αλέξανδρος",
+        "Αλεξάνδρεια",
+        "Βιβλιοθήκη Αλεξανδρείας",
+        "Φάρος Αλεξανδρείας",
+        "Απόστολος Παύλος",
+        "Αθήνα",
+        "Άρειος Πάγος",
+        "1ος αιώνας",
+        "Γρηγόριος Θεολόγος",
+        "Κωνσταντινούπολη",
+        "4ος αιώνας",
+        "timeline",
+        "ιστορία",
+        "πατερική θεολογία"
+      ],
+      "language": "el",
+      "notes": "Timeline PNG — Σταθμός 1: Μέγας Αλέξανδρος και Αλεξάνδρεια με Βιβλιοθήκη και Φάρο · Σταθμός 2: Απόστολος Παύλος στον Άρειο Πάγο της Αθήνας · Σταθμός 3: Γρηγόριος Θεολόγος στην Κωνσταντινούπολη τον 4ο αιώνα.",
+      "date_added": "2026-08-11",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-036",
+      "type": "image",
+      "title": "Γέφυρα Ιερουσαλήμ–Αθήνα — Απόστολος Παύλος",
+      "url": "https://i.ibb.co/CKQDR7dt/Gemini-Generated-Image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map",
+        "Explorer History",
+        "Mind Palace",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Απόστολος Παύλος",
+        "Ιερουσαλήμ",
+        "Αθήνα",
+        "Άρειος Πάγος",
+        "γέφυρα",
+        "λέξεις",
+        "διάλογος",
+        "ελληνισμός",
+        "χριστιανισμός",
+        "1ος αιώνας",
+        "αποστολική περιοδεία",
+        "ιστορία",
+        "timeline"
+      ],
+      "language": "el",
+      "notes": "Εικόνα γέφυρας με λέξεις μεταξύ Ιερουσαλήμ και Αθήνας — θεματική σύνδεση με τον Απόστολο Παύλο και την ομιλία στον Άρειο Πάγο.",
+      "date_added": "2026-08-11",
       "status": "active"
     }
   ]
