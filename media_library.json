@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-08-12",
-    "total": 47
+    "last_updated": "2026-08-17",
+    "total": 50
   },
   "media": [
     {
@@ -1146,6 +1146,87 @@
       "language": "el",
       "notes": "YouTube βίντεο — ίδιο μάθημα και tags με το IMG-036, για την εφαρμογή Investigation Board.",
       "date_added": "2026-08-12",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-008",
+      "type": "video",
+      "title": "Η έννοια της μετοχής σε Έλληνες φιλοσόφους και Θεολόγους",
+      "url": "https://notebook.google.com/notebook/26623781-5795-43c8-8320-c956be0e4c66/artifact/bf0ee937-c1ea-48fb-a5a9-80f5e30a09d7?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Mind Palace",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "μετοχή",
+        "Έλληνες φιλόσοφοι",
+        "θεολόγοι",
+        "Πλάτων",
+        "Αριστοτέλης",
+        "πατερική θεολογία",
+        "Sacred Blueprint"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video artifact — θεματική επισκόπηση της έννοιας της μετοχής από την ελληνική φιλοσοφία έως τη θεολογία.",
+      "date_added": "2026-08-17",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-003",
+      "type": "google_slides",
+      "title": "Θεολογικά, ιστορικά και φιλοσοφικά πλαίσια",
+      "url": "https://notebook.google.com/notebook/26623781-5795-43c8-8320-c956be0e4c66/artifact/65b4bdd7-711b-47de-b373-2754409913a1?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θεολογία",
+        "ιστορία",
+        "φιλοσοφία",
+        "πλαίσια",
+        "παρουσίαση",
+        "NotebookLM",
+        "πατερική θεολογία"
+      ],
+      "language": "el",
+      "notes": "NotebookLM slide artifact — συνοπτική παρουσίαση θεολογικών, ιστορικών και φιλοσοφικών πλαισίων.",
+      "date_added": "2026-08-17",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-009",
+      "type": "video",
+      "title": "Στρατηγική quiz, split και roguelite με VR στην τάξη",
+      "url": "https://notebooklm.google.com/notebook/26623781-5795-43c8-8320-c956be0e4c66/artifact/047db157-aa01-40e3-82b0-0dcd1ceda77e?utm_source=nlmm_share",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "UE5",
+        "Grading"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "εκπαιδευτική στρατηγική",
+        "quiz",
+        "split",
+        "roguelite",
+        "VR",
+        "τάξη",
+        "gamification",
+        "UE5",
+        "UnityVR"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video artifact — στρατηγική εφαρμογής quiz και roguelite μηχανισμών με VR στο εκπαιδευτικό περιβάλλον.",
+      "date_added": "2026-08-17",
       "status": "active"
     }
   ]
