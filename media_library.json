@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-08-17",
-    "total": 50
+    "last_updated": "2026-08-23",
+    "total": 59
   },
   "media": [
     {
@@ -1227,6 +1227,227 @@
       "language": "el",
       "notes": "NotebookLM video artifact — στρατηγική εφαρμογής quiz και roguelite μηχανισμών με VR στο εκπαιδευτικό περιβάλλον.",
       "date_added": "2026-08-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-037",
+      "type": "image",
+      "title": "Η υπόθεση του Αρείου — Πύλη της υπόθεσης",
+      "url": "https://drive.google.com/uc?export=download&id=1mNqZbp5AeG62M7oWRyIUaMTkxElDIoIi",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "case file",
+        "πνευματική δίκη",
+        "Νίκαια",
+        "investigation"
+      ],
+      "language": "el",
+      "notes": "Πύλη της υπόθεσης — νεοβυζαντινή εικόνα εισαγωγής. Drive source: https://drive.google.com/file/d/1mNqZbp5AeG62M7oWRyIUaMTkxElDIoIi/view?usp=drivesdk",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-038",
+      "type": "image",
+      "title": "Προϊστορία των ιδεών — Γνωστικές επιδράσεις έως Νίκαια",
+      "url": "https://drive.google.com/uc?export=download&id=17dmjib41F5-rSLLDn4KqdBjplCAdOp8a",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "γνωστικές επιδράσεις",
+        "Μαρκίων",
+        "Μοντανισμός",
+        "δυναμικός μοναρχιανισμός",
+        "τροπικός μοναρχιανισμός",
+        "Σαβελλιανισμός",
+        "Άρειος",
+        "timeline"
+      ],
+      "language": "el",
+      "notes": "Timeline των προγενέστερων προσεγγίσεων πριν από την αρειανική έριδα. Drive source: https://drive.google.com/file/d/17dmjib41F5-rSLLDn4KqdBjplCAdOp8a/view?usp=drivesdk",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-039",
+      "type": "image",
+      "title": "Η υπεράσπιση του Αρείου — Παροιμίες, αγέννητον, Σαβελλιανισμός",
+      "url": "https://drive.google.com/uc?export=download&id=1krutJ7UTMsw-mEui9YEDp3wGp1Ct5Mpy",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "υπεράσπιση",
+        "Παροιμίες 8,22",
+        "αγέννητον",
+        "Σαβελλιανισμός"
+      ],
+      "language": "el",
+      "notes": "Φάκελος Α — τα βασικά επιχειρήματα της αρειανικής υπεράσπισης. Drive source: https://drive.google.com/file/d/1krutJ7UTMsw-mEui9YEDp3wGp1Ct5Mpy/view?usp=drivesdk",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-040",
+      "type": "image",
+      "title": "Αντεξέταση — Σωτηρία, τρεπτόν και λατρεία",
+      "url": "https://drive.google.com/uc?export=download&id=1dPL2W4nzUTespCltkqwNLx1tsiKoVmfX",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Αθανάσιος",
+        "σωτηρία",
+        "τρεπτόν",
+        "ειδωλολατρία",
+        "αντεξέταση"
+      ],
+      "language": "el",
+      "notes": "Φάκελος Β — οι σωτηριολογικές και λατρευτικές συνέπειες. Drive source: https://drive.google.com/file/d/1dPL2W4nzUTespCltkqwNLx1tsiKoVmfX/view?usp=drivesdk",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-041",
+      "type": "image",
+      "title": "Νίκαια 325 — Ετυμηγορία και ομοούσιο",
+      "url": "https://drive.google.com/uc?export=download&id=1cuY_E115MO3W1vuvDi3IY-w9U5qmFNBf",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Νίκαια",
+        "ομοούσιο",
+        "ετυμηγορία",
+        "325",
+        "Άρειος"
+      ],
+      "language": "el",
+      "notes": "Τελική ετυμηγορία και το σωτηριολογικό κριτήριο. Drive source: https://drive.google.com/file/d/1cuY_E115MO3W1vuvDi3IY-w9U5qmFNBf/view?usp=drivesdk",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-010",
+      "type": "video",
+      "title": "Η υπόθεση του Αρείου — Συνοδευτικό υλικό NotebookLM",
+      "url": "https://notebook.google.com/notebook/03a7f421-addd-4494-b879-cd380a4d4316/artifact/272500d6-ec2b-4cf0-8b7b-12c4f753e088?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "αρειανισμός",
+        "ομοούσιο",
+        "Νίκαια",
+        "NotebookLM",
+        "πνευματική δίκη"
+      ],
+      "language": "el",
+      "notes": "NotebookLM artifact που έχει εγκριθεί ως συμπληρωματικό media/notebooklm.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-004",
+      "type": "google_slides",
+      "title": "NotebookLM Slides — Η υπόθεση του Αρείου",
+      "url": "https://notebook.google.com/notebook/03a7f421-addd-4494-b879-cd380a4d4316/artifact/1e02ca71-0e03-4677-8bf8-6f029c90d7a3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "αρειανισμός",
+        "Πατέρες",
+        "Νίκαια",
+        "παρουσίαση",
+        "NotebookLM"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένο NotebookLM slide artifact για την εξέταση επιχειρημάτων και συνεπειών.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-003",
+      "type": "audio",
+      "title": "NotebookLM Audio — Η υπόθεση του Αρείου",
+      "url": "https://notebook.google.com/notebook/03a7f421-addd-4494-b879-cd380a4d4316/artifact/d8d9fdb0-271c-4827-b910-1e5935149712?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "αρειανισμός",
+        "σωτηρία",
+        "Νίκαια",
+        "ηχητική ανακεφαλαίωση",
+        "NotebookLM"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένο NotebookLM audio artifact για την τελική ετυμηγορία.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "HTML-002",
+      "type": "interactive_book",
+      "title": "Interactive Book — Η υπόθεση του Αρείου",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/template/index.html?book=C_Lykeiou",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Book",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "αρειανισμός",
+        "interactive",
+        "C_Lykeiou",
+        "GitHub Pages"
+      ],
+      "language": "el",
+      "notes": "Βιβλίο C_Lykeiou — νέες σελίδες media 150–154 από το Google Sheet.",
+      "date_added": "2026-08-23",
       "status": "active"
     }
   ]
