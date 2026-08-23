@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-08-23",
-    "total": 64
+    "total": 66
   },
   "media": [
     {
@@ -1582,6 +1582,61 @@
       ],
       "language": "el",
       "notes": "imgbb mirror — Τελική ετυμηγορία και το σωτηριολογικό κριτήριο.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-011",
+      "type": "youtube",
+      "title": "Θεολογικά, ιστορικά και φιλοσοφικά πλαίσια στη μελέτη θεολογικού κειμένου",
+      "url": "https://www.youtube.com/watch?v=-2kH2aSh61M",
+      "source_platform": "YouTube",
+      "app_context": [
+        "Explorer History",
+        "Mind Palace",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θεολογία",
+        "ιστορία",
+        "φιλοσοφία",
+        "πλαίσια",
+        "ερευνητής",
+        "θεολογικό κείμενο",
+        "μελέτη"
+      ],
+      "language": "el",
+      "notes": "Τα θεολογικά, ιστορικά και φιλοσοφικά πλαίσια που θα πρέπει να εξετάζει ο ερευνητής κατά την μελέτη ενός κειμένου θεολογίας.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-012",
+      "type": "video",
+      "title": "Short Video — Θεολογικά, ιστορικά και φιλοσοφικά πλαίσια",
+      "url": "https://notebook.google.com/notebook/26623781-5795-43c8-8320-c956be0e4c66/artifact/76a14f3c-68a3-4988-9091-b948bc7feed7?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Mind Palace",
+        "Explorer History",
+        "Interactive Book"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θεολογία",
+        "ιστορία",
+        "φιλοσοφία",
+        "πλαίσια",
+        "ερευνητής",
+        "θεολογικό κείμενο",
+        "μελέτη",
+        "short video",
+        "NotebookLM"
+      ],
+      "language": "el",
+      "notes": "NotebookLM short video artifact — ίδια θεματολογία με VID-011: τα θεολογικά, ιστορικά και φιλοσοφικά πλαίσια που εξετάζει ο ερευνητής στη μελέτη θεολογικού κειμένου.",
       "date_added": "2026-08-23",
       "status": "active"
     }
