@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-08-23",
-    "total": 59
+    "total": 64
   },
   "media": [
     {
@@ -1295,7 +1295,8 @@
       "tags": [
         "Άρειος",
         "υπεράσπιση",
-        "Παροιμίες 8,22",
+        "Παροιμίες 8",
+        "22",
         "αγέννητον",
         "Σαβελλιανισμός"
       ],
@@ -1447,6 +1448,140 @@
       ],
       "language": "el",
       "notes": "Βιβλίο C_Lykeiou — νέες σελίδες media 74–78 από το Google Sheet.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-042",
+      "type": "image",
+      "title": "Η υπόθεση του Αρείου — Πύλη της υπόθεσης",
+      "url": "https://i.ibb.co/R4TMxjS9/img-01-case-gate.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "case file",
+        "πνευματική δίκη",
+        "Νίκαια",
+        "investigation",
+        "πύλη υπόθεσης"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — Πύλη της υπόθεσης για το σενάριο «Η υπόθεση του Αρείου».",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-043",
+      "type": "image",
+      "title": "Προϊστορία των ιδεών — Γνωστικές επιδράσεις έως Νίκαια",
+      "url": "https://i.ibb.co/DHLJY4NQ/img-02-preheresy-timeline.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "γνωστικές επιδράσεις",
+        "Μαρκίων",
+        "Μοντανισμός",
+        "δυναμικός μοναρχιανισμός",
+        "τροπικός μοναρχιανισμός",
+        "Σαβελλιανισμός",
+        "Άρειος",
+        "timeline",
+        "προϊστορία ιδεών"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — Timeline των προγενέστερων προσεγγίσεων πριν από την αρειανική έριδα.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-044",
+      "type": "image",
+      "title": "Η υπεράσπιση του Αρείου — Παροιμίες, αγέννητον, Σαβελλιανισμός",
+      "url": "https://i.ibb.co/cSZmvXGt/img-03-arius-defense.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Άρειος",
+        "υπεράσπιση",
+        "Παροιμίες 8",
+        "22",
+        "αγέννητον",
+        "Σαβελλιανισμός",
+        "αρειανισμός",
+        "Φάκελος Α"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — Φάκελος Α με τα βασικά επιχειρήματα της αρειανικής υπεράσπισης.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-045",
+      "type": "image",
+      "title": "Αντεξέταση — Σωτηρία, τρεπτόν και λατρεία",
+      "url": "https://i.ibb.co/5XZM3Vhf/img-04-salvation-cross-exam.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Αθανάσιος",
+        "σωτηρία",
+        "τρεπτόν",
+        "ειδωλολατρία",
+        "αντεξέταση",
+        "αρειανισμός",
+        "λατρεία",
+        "Φάκελος Β"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — Φάκελος Β με τις σωτηριολογικές και λατρευτικές συνέπειες.",
+      "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-046",
+      "type": "image",
+      "title": "Νίκαια 325 — Ετυμηγορία και ομοούσιο",
+      "url": "https://i.ibb.co/jvGZWZLY/img-05-nicaea-verdict.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Unity VR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Νίκαια",
+        "ομοούσιο",
+        "ετυμηγορία",
+        "325",
+        "Άρειος",
+        "αρειανισμός",
+        "σωτηριολογία",
+        "Α΄ Οικουμενική Σύνοδος"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — Τελική ετυμηγορία και το σωτηριολογικό κριτήριο.",
       "date_added": "2026-08-23",
       "status": "active"
     }
