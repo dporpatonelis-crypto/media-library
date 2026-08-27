@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-08-27",
-    "total": 75
+    "total": 78
   },
   "media": [
     {
@@ -1880,6 +1880,93 @@
       ],
       "language": "el",
       "notes": "Embed URL για web app. Original PPTX/share URL: https://docs.google.com/presentation/d/1zaZNmlIp7rwwBtNBg7UslAMq8PE5wdAa/edit?usp=sharing&ouid=108908263690483810635&rtpof=true&sd=true",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-055",
+      "type": "image",
+      "title": "Θεία Οικονομία — Συνοδευτική εικόνα",
+      "url": "https://i.ibb.co/5h8N13sp/image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Συνοδευτική εικόνα για το σετ «Θεία Οικονομία» και χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-013",
+      "type": "video",
+      "title": "Θεία Οικονομία. Παρουσίαση του περιεχομένου 4 web apps και του μαθησιακού σκοπού",
+      "url": "https://notebook.google.com/notebook/03a7f421-addd-4494-b879-cd380a4d4316/artifact/38543a47-f88f-432e-935c-784d0e340f36?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία",
+        "web apps",
+        "μαθησιακός σκοπός"
+      ],
+      "language": "el",
+      "notes": "NotebookLM artifact — παρουσίαση περιεχομένου τεσσάρων web apps και μαθησιακού σκοπού.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-004",
+      "type": "audio",
+      "title": "Θεία Οικονομία. Συζήτηση περι επίδρασης φιλοσοφία και ιστορικών προσώπων",
+      "url": "https://notebook.google.com/notebook/03a7f421-addd-4494-b879-cd380a4d4316/artifact/eb5c3342-a9bd-43f6-ab45-1302f3023da5?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία",
+        "φιλοσοφία",
+        "ιστορικά πρόσωπα"
+      ],
+      "language": "el",
+      "notes": "NotebookLM audio artifact — συζήτηση για την επίδραση της φιλοσοφίας και ιστορικών προσώπων στη θεία οικονομία.",
       "date_added": "2026-08-27",
       "status": "active"
     }
