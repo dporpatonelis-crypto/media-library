@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-08-23",
-    "total": 66
+    "last_updated": "2026-08-27",
+    "total": 75
   },
   "media": [
     {
@@ -1638,6 +1638,249 @@
       "language": "el",
       "notes": "NotebookLM short video artifact — ίδια θεματολογία με VID-011: τα θεολογικά, ιστορικά και φιλοσοφικά πλαίσια που εξετάζει ο ερευνητής στη μελέτη θεολογικού κειμένου.",
       "date_added": "2026-08-23",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-047",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 1",
+      "url": "https://i.ibb.co/8n06X9KY/Slide-01.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 1/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-048",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 2",
+      "url": "https://i.ibb.co/mCTRf7Hd/Slide-02.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 2/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-049",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 3",
+      "url": "https://i.ibb.co/GvWhjgSw/Slide-03.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 3/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-050",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 4",
+      "url": "https://i.ibb.co/JW30jQ8t/Slide-04.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 4/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-051",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 5",
+      "url": "https://i.ibb.co/bgDPJHS1/Slide-05.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 5/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-052",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 6",
+      "url": "https://i.ibb.co/7tQjnv5H/Slide-06.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 6/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-053",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 7",
+      "url": "https://i.ibb.co/VcR3sTjT/Slide-07.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 7/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-054",
+      "type": "image",
+      "title": "Θεία Οικονομία — Διαφάνεια 8",
+      "url": "https://i.ibb.co/G4HQV7r3/Slide-08.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Slide image 8/8 — σετ «Θεία Οικονομία» για χρήση σε web app.",
+      "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-005",
+      "type": "google_slides",
+      "title": "PowerPoint Embed — Θεία Οικονομία",
+      "url": "https://docs.google.com/presentation/d/1zaZNmlIp7rwwBtNBg7UslAMq8PE5wdAa/embed?start=false&loop=false&delayms=3000",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Book",
+        "Personal Page",
+        "Mind Palace"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "θεραπεία",
+        "ελευθερία",
+        "Αβρααμ",
+        "Μωυσής",
+        "προφήτες",
+        "θ. Ευχαριστία",
+        "σωτηρία"
+      ],
+      "language": "el",
+      "notes": "Embed URL για web app. Original PPTX/share URL: https://docs.google.com/presentation/d/1zaZNmlIp7rwwBtNBg7UslAMq8PE5wdAa/edit?usp=sharing&ouid=108908263690483810635&rtpof=true&sd=true",
+      "date_added": "2026-08-27",
       "status": "active"
     }
   ]
