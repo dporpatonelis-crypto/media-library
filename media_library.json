@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-08-27",
-    "total": 78
+    "last_updated": "2026-09-02",
+    "total": 79
   },
   "media": [
     {
@@ -1968,6 +1968,33 @@
       "language": "el",
       "notes": "NotebookLM audio artifact — συζήτηση για την επίδραση της φιλοσοφίας και ιστορικών προσώπων στη θεία οικονομία.",
       "date_added": "2026-08-27",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-014",
+      "type": "video",
+      "title": "Θεία Οικονομία — Σύνοψη των πέντε αποστολών εξερεύνησης",
+      "url": "https://notebook.google.com/notebook/03a7f421-addd-4494-b879-cd380a4d4316/artifact/898bd0db-193c-4b00-9443-87cf26bbcad4?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "ιστορία",
+        "φιλοσοφία",
+        "ιστορικά πρόσωπα",
+        "τεκμήρια",
+        "αποστολές εξερεύνησης",
+        "σύνοψη"
+      ],
+      "language": "el",
+      "notes": "NotebookLM artifact — σύντομη περίληψη του εγγράφου με τις πέντε αποστολές εξερεύνησης για το μάθημα της Θείας Οικονομίας.",
+      "date_added": "2026-09-02",
       "status": "active"
     }
   ]
