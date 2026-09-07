@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-09-02",
-    "total": 79
+    "last_updated": "2026-09-08",
+    "total": 86
   },
   "media": [
     {
@@ -1971,6 +1971,58 @@
       "status": "active"
     },
     {
+      "media_id": "VID-015",
+      "type": "video",
+      "title": "Θεία Οικονομία. Παρουσίαση του περιεχομένου current lesson json",
+      "url": "https://notebook.google.com/notebook/26623781-5795-43c8-8320-c956be0e4c66/artifact/c3599b4d-42ac-4fb3-ba47-2fe85ae129b9?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "current lesson json",
+        "παρουσίαση περιεχομένου",
+        "NotebookLM",
+        "web app",
+        "μαθησιακό υλικό"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video artifact — παρουσίαση του περιεχομένου από current lesson json για χρήση στο μάθημα και στο web app.",
+      "date_added": "2026-09-02",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-006",
+      "type": "google_slides",
+      "title": "Θεία Οικονομία. Παρουσίαση του περιεχομένου current lesson json",
+      "url": "https://notebook.google.com/notebook/26623781-5795-43c8-8320-c956be0e4c66/artifact/675e37aa-1f14-4f44-b617-577e8f54a720?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "θ. οικονομία",
+        "current lesson json",
+        "διαφάνειες",
+        "NotebookLM",
+        "παρουσίαση περιεχομένου",
+        "web app"
+      ],
+      "language": "el",
+      "notes": "NotebookLM slides artifact — διαφάνειες/παρουσίαση περιεχομένου από current lesson json για χρήση στο μάθημα και στο web app.",
+      "date_added": "2026-09-02",
+      "status": "active"
+    },
+    {
       "media_id": "VID-014",
       "type": "video",
       "title": "Θεία Οικονομία — Σύνοψη των πέντε αποστολών εξερεύνησης",
@@ -1995,6 +2047,139 @@
       "language": "el",
       "notes": "NotebookLM artifact — σύντομη περίληψη του εγγράφου με τις πέντε αποστολές εξερεύνησης για το μάθημα της Θείας Οικονομίας.",
       "date_added": "2026-09-02",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-056",
+      "type": "image",
+      "title": "Οικουμενικές Σύνοδοι — Εικόνα 1/5",
+      "url": "https://i.ibb.co/vvd2b1LW/Codex-Image-Sep-8-2026-12-31-37-AM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Οικουμενικές Σύνοδοι",
+        "εκκλησιαστική ιστορία",
+        "δογματική",
+        "πατερική θεολογία",
+        "σύνοδος",
+        "εικόνα",
+        "εκπαιδευτικό υλικό"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — εικόνα 1/5 για το σετ «Οικουμενικές Σύνοδοι» και χρήση σε web app.",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-057",
+      "type": "image",
+      "title": "Οικουμενικές Σύνοδοι — Εικόνα 2/5",
+      "url": "https://i.ibb.co/PGFdFx8r/Codex-Image-Sep-8-2026-12-31-51-AM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Οικουμενικές Σύνοδοι",
+        "εκκλησιαστική ιστορία",
+        "δογματική",
+        "πατερική θεολογία",
+        "Νίκαια",
+        "Κωνσταντινούπολη",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — εικόνα 2/5 για το σετ «Οικουμενικές Σύνοδοι» και χρήση σε web app.",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-058",
+      "type": "image",
+      "title": "Οικουμενικές Σύνοδοι — Εικόνα 3/5",
+      "url": "https://i.ibb.co/yF7LCw3M/Codex-Image-Sep-8-2026-12-32-01-AM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Οικουμενικές Σύνοδοι",
+        "Έφεσος",
+        "Χαλκηδόνα",
+        "Χριστολογία",
+        "Θεοτόκος",
+        "δογματικές αποφάσεις",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — εικόνα 3/5 για το σετ «Οικουμενικές Σύνοδοι» και χρήση σε web app.",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-059",
+      "type": "image",
+      "title": "Οικουμενικές Σύνοδοι — Εικόνα 4/5",
+      "url": "https://i.ibb.co/2Y6DYVDX/Codex-Image-Sep-8-2026-12-32-08-AM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Οικουμενικές Σύνοδοι",
+        "δογματικοί όροι",
+        "ομοούσιο",
+        "Χριστολογία",
+        "εκκλησιαστική ιστορία",
+        "πατερική θεολογία"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — εικόνα 4/5 για το σετ «Οικουμενικές Σύνοδοι» και χρήση σε web app.",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-060",
+      "type": "image",
+      "title": "Οικουμενικές Σύνοδοι — Εικόνα 5/5",
+      "url": "https://i.ibb.co/SXt8gGMk/Codex-Image-Sep-8-2026-12-32-13-AM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Interactive Book",
+        "Mind Palace",
+        "Explorer History",
+        "Timeline Map"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Οικουμενικές Σύνοδοι",
+        "ανακεφαλαίωση",
+        "δογματική",
+        "εκκλησιαστική ιστορία",
+        "χρονολόγιο",
+        "εκπαιδευτικό υλικό"
+      ],
+      "language": "el",
+      "notes": "imgbb mirror — εικόνα 5/5 για το σετ «Οικουμενικές Σύνοδοι» και χρήση σε web app.",
+      "date_added": "2026-09-08",
       "status": "active"
     }
   ]
