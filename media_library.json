@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-09-08",
-    "total": 86
+    "total": 88
   },
   "media": [
     {
@@ -2179,6 +2179,61 @@
       ],
       "language": "el",
       "notes": "imgbb mirror — εικόνα 5/5 για το σετ «Οικουμενικές Σύνοδοι» και χρήση σε web app.",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-005",
+      "type": "audio",
+      "title": "Δόγμα και Βίωμα — Video",
+      "url": "https://notebooklm.link.google/XcKp0zjTAAps",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "εκκλησιαστική εμπειρία",
+        "πατερική θεολογία",
+        "NotebookLM",
+        "μαθησιακό υλικό"
+      ],
+      "language": "el",
+      "notes": "NotebookLM audio artifact — ηχητικό υλικό για το μάθημα «Δόγμα και Βίωμα».",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-016",
+      "type": "video",
+      "title": "Δόγμα και Βίωμα — Video",
+      "url": "https://notebooklm.link.google/My64TcpYVQPh",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "εκκλησιαστική εμπειρία",
+        "πατερική θεολογία",
+        "NotebookLM",
+        "video",
+        "μαθησιακό υλικό"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video artifact — βίντεο για το μάθημα «Δόγμα και Βίωμα».",
       "date_added": "2026-09-08",
       "status": "active"
     }
