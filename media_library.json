@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-09-08",
-    "total": 88
+    "total": 90
   },
   "media": [
     {
@@ -2234,6 +2234,54 @@
       ],
       "language": "el",
       "notes": "NotebookLM video artifact — βίντεο για το μάθημα «Δόγμα και Βίωμα».",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-007",
+      "type": "google_slides",
+      "title": "Δόγμα και Βίωμα — Παρουσίαση",
+      "url": "https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/embed?start=false&loop=false&delayms=3000",
+      "source_platform": "Google Slides",
+      "app_context": [
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "εκκλησιαστική εμπειρία",
+        "πατερική θεολογία",
+        "Google Slides",
+        "environment screen"
+      ],
+      "language": "el",
+      "notes": "Embed URL για environment screen στο μάθημα «Δόγμα και Βίωμα». Original Google Slides URL: https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/edit?usp=drivesdk",
+      "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-061",
+      "type": "image",
+      "title": "Δόγμα και Βίωμα — Εικόνα",
+      "url": "https://i.ibb.co/bjnZnM2S/file-000000003cac81f4acd58e41eeb2aa60.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Explorer History"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "εκκλησιαστική εμπειρία",
+        "πατερική θεολογία",
+        "εικόνα",
+        "environment screen"
+      ],
+      "language": "el",
+      "notes": "imgbb εικόνα για το άλλο environment screen του μαθήματος «Δόγμα και Βίωμα».",
       "date_added": "2026-09-08",
       "status": "active"
     }
