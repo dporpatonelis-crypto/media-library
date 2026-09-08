@@ -2241,7 +2241,7 @@
       "media_id": "SLD-007",
       "type": "google_slides",
       "title": "Δόγμα και Βίωμα — Παρουσίαση",
-      "url": "https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/embed?start=false&loop=false&delayms=3000",
+      "url": "https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/embed?start=true&loop=true&delayms=6000",
       "source_platform": "Google Slides",
       "app_context": [
         "Explorer History"
@@ -2257,7 +2257,7 @@
         "environment screen"
       ],
       "language": "el",
-      "notes": "Embed URL για environment screen στο μάθημα «Δόγμα και Βίωμα». Original Google Slides URL: https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/edit?usp=drivesdk",
+      "notes": "Looping embed URL (6s ανά διαφάνεια) για το κυρτό environment screen στο μάθημα «Δόγμα και Βίωμα». Original Google Slides URL: https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/edit?usp=drivesdk",
       "date_added": "2026-09-08",
       "status": "active"
     },
