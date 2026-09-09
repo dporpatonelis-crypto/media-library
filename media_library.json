@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-09-09",
-    "total": 92
+    "total": 93
   },
   "media": [
     {
@@ -2338,6 +2338,37 @@
       ],
       "language": "el",
       "notes": "NotebookLM video artifact — νέο βίντεο για το μάθημα «Δόγμα και Βίωμα».",
+      "date_added": "2026-09-09",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-006",
+      "type": "audio",
+      "title": "Δόγμα και Βίωμα — NotebookLM Audio",
+      "url": "https://notebooklm.link.google/wza6M8qAeHtY",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "ελευθερία",
+        "δογματική συνείδηση",
+        "εσωτερική απελευθέρωση",
+        "εξωτερική απελευθέρωση",
+        "εφαρμογές μαθήματος",
+        "NotebookLM",
+        "audio",
+        "μαθησιακό υλικό"
+      ],
+      "language": "el",
+      "notes": "NotebookLM audio artifact — ανάλυση των εφαρμογών του μαθήματος με έμφαση στην ελευθερία, τη δογματική συνείδηση και την εσωτερική/εξωτερική απελευθέρωση.",
       "date_added": "2026-09-09",
       "status": "active"
     }
