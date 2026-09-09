@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-09-09",
-    "total": 91
+    "total": 92
   },
   "media": [
     {
@@ -2310,6 +2310,34 @@
       ],
       "language": "el",
       "notes": "NotebookLM slide artifact — επόμενη παρουσίαση για το μάθημα «Δόγμα και Βίωμα».",
+      "date_added": "2026-09-09",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-017",
+      "type": "video",
+      "title": "Δόγμα και Βίωμα — NotebookLM Video",
+      "url": "https://notebooklm.link.google/jwP8Z5AfRTH0",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "εκκλησιαστική εμπειρία",
+        "πατερική θεολογία",
+        "NotebookLM",
+        "video",
+        "μαθησιακό υλικό"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video artifact — νέο βίντεο για το μάθημα «Δόγμα και Βίωμα».",
       "date_added": "2026-09-09",
       "status": "active"
     }
