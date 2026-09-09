@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-09-08",
-    "total": 90
+    "last_updated": "2026-09-09",
+    "total": 91
   },
   "media": [
     {
@@ -2283,6 +2283,34 @@
       "language": "el",
       "notes": "imgbb εικόνα για το άλλο environment screen του μαθήματος «Δόγμα και Βίωμα».",
       "date_added": "2026-09-08",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-008",
+      "type": "google_slides",
+      "title": "Δόγμα και Βίωμα — NotebookLM Slides",
+      "url": "https://notebooklm.link.google/QDF26lqY1kcV",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Notebook Media",
+        "Interactive Book",
+        "Mind Palace",
+        "Personal Page"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "δόγμα",
+        "βίωμα",
+        "θεολογία",
+        "εκκλησιαστική εμπειρία",
+        "πατερική θεολογία",
+        "NotebookLM",
+        "slides",
+        "μαθησιακό υλικό"
+      ],
+      "language": "el",
+      "notes": "NotebookLM slide artifact — επόμενη παρουσίαση για το μάθημα «Δόγμα και Βίωμα».",
+      "date_added": "2026-09-09",
       "status": "active"
     }
   ]
