@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-09-22",
-    "total": 99
+    "last_updated": "2026-09-30",
+    "total": 106
   },
   "media": [
     {
@@ -2596,6 +2596,160 @@
       "language": "el",
       "notes": "ImageGen — οπτικοποίηση ποιήματος περί θείας αγάπης του Συμεών Νέου Θεολόγου. Κοινή Media Library καταχώριση, χωρίς σύνδεση σε συγκεκριμένο lesson/app.",
       "date_added": "2026-09-22",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-068",
+      "type": "image",
+      "title": "Φαρισαϊσμός και αυτοδικαίωση",
+      "url": "https://i.ibb.co/Q0BKKR9/Chat-GPT-Image-Sep-30-2026-06-45-22-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Φαρισαϊσμός",
+        "αυτοδικαίωση",
+        "ηθικισμός",
+        "πίστη",
+        "αγάπη"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Φαρισαϊσμός και αυτοδικαίωση» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-069",
+      "type": "image",
+      "title": "Λατρεία και πολιτική υποταγή",
+      "url": "https://i.ibb.co/C33GByt6/Chat-GPT-Image-Sep-30-2026-06-47-53-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Ρωμαϊκή Αυτοκρατορία",
+        "αυτοκρατορική λατρεία",
+        "πολιτική υποταγή",
+        "μάρτυρες",
+        "πίστη"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Λατρεία και πολιτική υποταγή» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-070",
+      "type": "image",
+      "title": "Χάρη και ανθρώπινη ανταπόκριση",
+      "url": "https://i.ibb.co/Q32mkCZs/Chat-GPT-Image-Sep-30-2026-06-47-57-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "χάρη",
+        "ανθρώπινη ανταπόκριση",
+        "συνέργεια",
+        "σωτηρία",
+        "αγάπη"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Χάρη και ανθρώπινη ανταπόκριση» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-071",
+      "type": "image",
+      "title": "Το δόγμα ως κρατικό εργαλείο",
+      "url": "https://i.ibb.co/cKCrK8B1/Chat-GPT-Image-Sep-30-2026-06-48-03-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "δόγμα",
+        "κρατική σκοπιμότητα",
+        "εκκλησία",
+        "πατέρες",
+        "αυτοκρατορικός παρεμβατισμός"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Το δόγμα ως κρατικό εργαλείο» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-072",
+      "type": "image",
+      "title": "Εθνικισμός με εκκλησιαστικό άλλοθι",
+      "url": "https://i.ibb.co/k2hL3gKF/Chat-GPT-Image-Sep-30-2026-06-48-09-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "εθνικισμός",
+        "εκκλησιαστικές θέσεις",
+        "πολιτική ιδεολογία",
+        "αποκλεισμός",
+        "αγάπη προς κάθε πρόσωπο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Εθνικισμός με εκκλησιαστικό άλλοθι» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-073",
+      "type": "image",
+      "title": "Θρησκεία και κοινωνική καταξίωση",
+      "url": "https://i.ibb.co/VWFXfX99/Chat-GPT-Image-Sep-30-2026-06-48-14-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "θρησκεία",
+        "κοινωνική καταξίωση",
+        "κοινωνικό κύρος",
+        "προσφορά",
+        "ανιδιοτελής αγάπη"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Θρησκεία και κοινωνική καταξίωση» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-074",
+      "type": "image",
+      "title": "Η πίστη ως προνόμιο μιας ελίτ",
+      "url": "https://i.ibb.co/xtmfMFbf/Chat-GPT-Image-Sep-30-2026-06-48-19-PM.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "πνευματικός ελιτισμός",
+        "θεολογική γνώση",
+        "πνευματική ομάδα",
+        "υπεροχή",
+        "κάθε ανθρώπινο πρόσωπο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα για τον σταθμό «Η πίστη ως προνόμιο μιας ελίτ» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
+      "date_added": "2026-09-30",
       "status": "active"
     }
   ]
