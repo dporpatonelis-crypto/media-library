@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-09-30",
-    "total": 106
+    "last_updated": "2026-10-03",
+    "total": 111
   },
   "media": [
     {
@@ -2750,6 +2750,133 @@
       "language": "el",
       "notes": "Εικόνα για τον σταθμό «Η πίστη ως προνόμιο μιας ελίτ» στο Timeline «Πίστη, εξουσία και πρόσωπο».",
       "date_added": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-075",
+      "type": "image",
+      "title": "Η κλήση του Αβραάμ και η πορεία της υποσχέσεως",
+      "url": "https://i.ibb.co/fYDxnyxX/image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Αβραάμ",
+        "Σάρρα",
+        "υπόσχεση",
+        "διαθήκη",
+        "Παλαιά Διαθήκη",
+        "Θεία Οικονομία",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εγκεκριμένη εικόνα για το μάθημα «Από τη Σκιά στην Αλήθεια: Η Ενότητα Παλαιάς και Καινής Διαθήκης». Αρχείο: 01-abraham-sarah.png.",
+      "date_added": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-076",
+      "type": "image",
+      "title": "Η Αποστολική Σύνοδος και το άνοιγμα στα έθνη",
+      "url": "https://i.ibb.co/LznJ2JGv/image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Timeline Map"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Αποστολική Σύνοδος",
+        "Ιερουσαλήμ",
+        "Απόστολοι",
+        "έθνη",
+        "οικουμενικότητα",
+        "Καινή Διαθήκη",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εγκεκριμένη εικόνα για το μάθημα «Από τη Σκιά στην Αλήθεια: Η Ενότητα Παλαιάς και Καινής Διαθήκης». Αρχείο: 02-apostolic-council.png.",
+      "date_added": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-077",
+      "type": "image",
+      "title": "Η Μεταμόρφωση: Νόμος, Προφήτες και πλήρωση",
+      "url": "https://i.ibb.co/Y7Br8m4h/image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Investigation Board"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Μεταμόρφωση",
+        "Χριστός",
+        "Μωυσής",
+        "Ηλίας",
+        "Θαβώρ",
+        "άκτιστο φως",
+        "Νόμος",
+        "Προφήτες",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εγκεκριμένη εικόνα για το μάθημα «Από τη Σκιά στην Αλήθεια: Η Ενότητα Παλαιάς και Καινής Διαθήκης». Αρχείο: 03-transfiguration.png.",
+      "date_added": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-078",
+      "type": "image",
+      "title": "Η αίθουσα της Πληρώσεως",
+      "url": "https://i.ibb.co/nMKstLJq/image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Mind Palace"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Καινή Διαθήκη",
+        "πλήρωση",
+        "ειλητάρια",
+        "ενότητα",
+        "Θεία Οικονομία",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εγκεκριμένη εικόνα για το μάθημα «Από τη Σκιά στην Αλήθεια: Η Ενότητα Παλαιάς και Καινής Διαθήκης». Αρχείο: 04-room-fulfilment.png.",
+      "date_added": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-079",
+      "type": "image",
+      "title": "Η αίθουσα της Οικουμένης",
+      "url": "https://i.ibb.co/PZ4PGgwQ/image.png",
+      "source_platform": "imgbb",
+      "app_context": [
+        "Mind Palace"
+      ],
+      "unit_id": "",
+      "tags": [
+        "οικουμενικότητα",
+        "κοινωνία",
+        "φιλοξενία",
+        "πρόσωπο",
+        "διαθήκη",
+        "κοινό τραπέζι",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εγκεκριμένη εικόνα για το μάθημα «Από τη Σκιά στην Αλήθεια: Η Ενότητα Παλαιάς και Καινής Διαθήκης». Αρχείο: 05-room-oikoumene.png.",
+      "date_added": "2026-10-03",
       "status": "active"
     }
   ]
