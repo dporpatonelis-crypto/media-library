@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-03",
-    "total": 111
+    "last_updated": "2026-10-06",
+    "total": 112
   },
   "media": [
     {
@@ -2877,6 +2877,32 @@
       "language": "el",
       "notes": "ImageGen — εγκεκριμένη εικόνα για το μάθημα «Από τη Σκιά στην Αλήθεια: Η Ενότητα Παλαιάς και Καινής Διαθήκης». Αρχείο: 05-room-oikoumene.png.",
       "date_added": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-018",
+      "type": "video",
+      "title": "Ιεροσόλυμα – Αθήνα – Βυζάντιο — UnityVR",
+      "url": "https://notebooklm.link.google/NZc8LhoCqBWG",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Personal Page",
+        "UnityVR"
+      ],
+      "unit_id": "U03",
+      "tags": [
+        "Ιεροσόλυμα",
+        "Αθήνα",
+        "Βυζάντιο",
+        "Απόστολος Παύλος",
+        "UnityVR",
+        "NotebookLM",
+        "video",
+        "εκπαιδευτικό σενάριο"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video artifact — βίντεο για το εκπαιδευτικό σενάριο «Ιεροσόλυμα – Αθήνα – Βυζάντιο», βασισμένο στο ρητό του Απ. Παύλου στο UnityVR.",
+      "date_added": "2026-10-06",
       "status": "active"
     }
   ]
