@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-06",
-    "total": 112
+    "total": 113
   },
   "media": [
     {
@@ -2902,6 +2902,28 @@
       ],
       "language": "el",
       "notes": "NotebookLM video artifact — βίντεο για το εκπαιδευτικό σενάριο «Ιεροσόλυμα – Αθήνα – Βυζάντιο», βασισμένο στο ρητό του Απ. Παύλου στο UnityVR.",
+      "date_added": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-019",
+      "type": "video",
+      "title": "NotebookLM — Βίντεο για την τάξη",
+      "url": "https://notebooklm.link.google/6UY1R8WYqwBz",
+      "source_platform": "NotebookLM (Google)",
+      "app_context": [
+        "Personal Page"
+      ],
+      "unit_id": "",
+      "tags": [
+        "NotebookLM",
+        "βίντεο",
+        "τάξη",
+        "εκπαιδευτικό υλικό",
+        "Personal Page"
+      ],
+      "language": "el",
+      "notes": "NotebookLM video shared for classroom use; added to Personal Page Educational Apps class links.",
       "date_added": "2026-10-06",
       "status": "active"
     }
