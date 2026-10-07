@@ -2956,7 +2956,9 @@
       "title": "Οι πέντε άρτοι και τα δύο ψάρια",
       "url": "sandbox:/workspace/scratch/4ecfc6fa54b2/generated_images/exec-625fa894-ef2a-47c7-8df5-329d0b2d770b.png",
       "source_platform": "ChatGPT",
-      "app_context": [],
+      "app_context": [
+        "Interactive Books"
+      ],
       "unit_id": "",
       "tags": [
         "θαύμα",
@@ -2969,7 +2971,7 @@
         "3D"
       ],
       "language": "el",
-      "notes": "Εικόνα δημιουργημένη στο ChatGPT ως αναφορά για GLB: πέντε άρτοι και δύο ψάρια σε καλάθι. Καταχώριση μόνο στη Media Library.",
+      "notes": "Εικόνα δημιουργημένη στο ChatGPT ως αναφορά για GLB: πέντε άρτοι και δύο ψάρια σε καλάθι. Συνδεδεμένη στο Interactive Books, Γ΄ Λυκείου, σελ. 26 (2.1 Πλούτος και φτώχεια).",
       "date_added": "2026-10-07",
       "status": "active"
     }
