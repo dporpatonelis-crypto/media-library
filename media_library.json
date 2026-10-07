@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-07",
-    "total": 117
+    "total": 119
   },
   "media": [
     {
@@ -3030,6 +3030,52 @@
       ],
       "language": "el",
       "notes": "ImageGen — εικόνα από το ChatGPT Library για το μάθημα «Επιστήμη και θρησκεία», με θέμα τη γέφυρα ανάμεσα στην επιστημονική γνώση και την πνευματική θέαση του κόσμου. Συνδεδεμένη στο Interactive Books, Γ΄ Λυκείου, σελ. 8 (1.1).",
+      "date_added": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-021",
+      "type": "youtube",
+      "title": "Από την Αθήνα στον Σταυρό",
+      "url": "https://youtu.be/ZbrCmRIm9l4",
+      "source_platform": "YouTube",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Αρχαία Αγορά",
+        "Ιερουσαλήμ",
+        "Βυζάντιο",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο από τον χρήστη για το πρώτο μάθημα του προσωπικού ψηφιακού βιβλίου.",
+      "date_added": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-083",
+      "type": "image",
+      "title": "Έξι ιερά αντικείμενα της Παλαιάς Διαθήκης",
+      "url": "https://chatgpt.com/library/share/libfile_7ca86b0fd02881919397c27896bfb62c?account_id=personal",
+      "source_platform": "ChatGPT",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Ιερουσαλήμ",
+        "Σκιά και Πλήρωση",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα επιλεγμένη από το ChatGPT Library. Το πρωτότυπο διατηρείται στο νέο ψηφιακό βιβλίο· δεν εισάγονται τα προτεινόμενα media του NotebookLM.",
       "date_added": "2026-10-07",
       "status": "active"
     }
