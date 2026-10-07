@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-07",
-    "total": 114
+    "total": 115
   },
   "media": [
     {
@@ -2947,6 +2947,29 @@
       ],
       "language": "el",
       "notes": "NotebookLM video shared for classroom use; added to Personal Page Educational Apps class links and selected as the demo video.",
+      "date_added": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-080",
+      "type": "image",
+      "title": "Οι πέντε άρτοι και τα δύο ψάρια",
+      "url": "sandbox:/workspace/scratch/4ecfc6fa54b2/generated_images/exec-625fa894-ef2a-47c7-8df5-329d0b2d770b.png",
+      "source_platform": "ChatGPT",
+      "app_context": [],
+      "unit_id": "",
+      "tags": [
+        "θαύμα",
+        "πολλαπλασιασμός των άρτων και των ιχθύων",
+        "Καινή Διαθήκη",
+        "Ευαγγέλια",
+        "άρτοι",
+        "ψάρια",
+        "GLB",
+        "3D"
+      ],
+      "language": "el",
+      "notes": "Εικόνα δημιουργημένη στο ChatGPT ως αναφορά για GLB: πέντε άρτοι και δύο ψάρια σε καλάθι. Καταχώριση μόνο στη Media Library.",
       "date_added": "2026-10-07",
       "status": "active"
     }
