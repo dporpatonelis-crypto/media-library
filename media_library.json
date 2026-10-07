@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-07",
-    "total": 115
+    "total": 117
   },
   "media": [
     {
@@ -2380,7 +2380,7 @@
       "source_platform": "imgbb",
       "app_context": [
         "Personal Page",
-        "Interactive Book",
+        "Interactive Books",
         "Mind Palace",
         "Explorer History"
       ],
@@ -2404,7 +2404,7 @@
         "εκπαιδευτική εικόνα"
       ],
       "language": "el",
-      "notes": "ImageGen — συμβολική αντιπαράθεση επιστήμης και θρησκείας μέσα από μυαλό και καρδιά. Κοινή Media Library καταχώριση, χωρίς σύνδεση σε συγκεκριμένο lesson/app.",
+      "notes": "ImageGen — συμβολική αντιπαράθεση επιστήμης και θρησκείας μέσα από μυαλό και καρδιά. Συνδεδεμένη στο Interactive Books, Γ΄ Λυκείου, σελ. 8 (1.1 Επιστήμη και θρησκεία).",
       "date_added": "2026-09-22",
       "status": "active"
     },
@@ -2972,6 +2972,64 @@
       ],
       "language": "el",
       "notes": "Εικόνα δημιουργημένη στο ChatGPT ως αναφορά για GLB: πέντε άρτοι και δύο ψάρια σε καλάθι. Συνδεδεμένη στο Interactive Books, Γ΄ Λυκείου, σελ. 26 (2.1 Πλούτος και φτώχεια).",
+      "date_added": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-081",
+      "type": "image",
+      "title": "Επιστήμη και πνευματικότητα σε διάλογο",
+      "url": "sandbox:/workspace/scratch/4ecfc6fa54b2/media-staging/science-spirituality-dialogue.jpg",
+      "source_platform": "ChatGPT",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Επιστήμη και θρησκεία",
+        "επιστήμη",
+        "πνευματικότητα",
+        "διάλογος επιστήμης και πίστης",
+        "επιστημονική γνώση",
+        "υλικός κόσμος",
+        "πνευματικός κόσμος",
+        "Πατερική θεολογία",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα",
+        "Γ΄ Λυκείου",
+        "1.1 Επιστήμη και θρησκεία"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εικόνα από το ChatGPT Library για το μάθημα «Επιστήμη και θρησκεία», με θέμα τον διάλογο επιστήμης και πνευματικότητας. Συνδεδεμένη στο Interactive Books, Γ΄ Λυκείου, σελ. 8 (1.1).",
+      "date_added": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-082",
+      "type": "image",
+      "title": "Γέφυρα επιστήμης και πνευματικότητας",
+      "url": "sandbox:/workspace/scratch/4ecfc6fa54b2/media-staging/science-spirituality-bridge.jpg",
+      "source_platform": "ChatGPT",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Επιστήμη και θρησκεία",
+        "επιστήμη",
+        "πνευματικότητα",
+        "γέφυρα πίστης και επιστημονικής γνώσης",
+        "υλικός κόσμος",
+        "πνευματικός κόσμος",
+        "κοινά ερωτήματα",
+        "Πατερική θεολογία",
+        "νεοβυζαντινό",
+        "εκπαιδευτική εικόνα",
+        "Γ΄ Λυκείου",
+        "1.1 Επιστήμη και θρησκεία"
+      ],
+      "language": "el",
+      "notes": "ImageGen — εικόνα από το ChatGPT Library για το μάθημα «Επιστήμη και θρησκεία», με θέμα τη γέφυρα ανάμεσα στην επιστημονική γνώση και την πνευματική θέαση του κόσμου. Συνδεδεμένη στο Interactive Books, Γ΄ Λυκείου, σελ. 8 (1.1).",
       "date_added": "2026-10-07",
       "status": "active"
     }
