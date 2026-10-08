@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-08",
-    "total": 120
+    "total": 121
   },
   "media": [
     {
@@ -3100,6 +3100,31 @@
       ],
       "language": "el",
       "notes": "Εικόνα επιλεγμένη από τον χρήστη για την ενότητα Ιεροσολύμων του προσωπικού ψηφιακού βιβλίου. Το πρωτότυπο διατηρείται μαζί με τον επεξεργάσιμο πίνακα CSV στο βιβλίο.",
+      "date_added": "2026-10-08",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-009",
+      "type": "google_slides",
+      "title": "Παλαιά Διαθήκη - Τυπολογία και λατρεία",
+      "url": "https://docs.google.com/presentation/d/11ClrcJz1wGMjZTBhl0hEiIIF2Sq0_nWPE73GAhcNdnE/preview",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Ιερουσαλήμ",
+        "τυπολογία",
+        "λατρεία",
+        "παρουσίαση",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Παρουσίαση έξι διαφανειών από το PPTX που έδωσε ο χρήστης. Μεταφέρθηκε σε επεξεργάσιμο Google Slides για προβολή μέσα στο προσωπικό ψηφιακό βιβλίο. Εγκεκριμένη πρόσβαση: όποιος έχει τον σύνδεσμο, μόνο για προβολή.",
       "date_added": "2026-10-08",
       "status": "active"
     }
