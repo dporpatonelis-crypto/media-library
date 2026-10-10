@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-10",
-    "total": 122
+    "total": 127
   },
   "media": [
     {
@@ -3148,6 +3148,125 @@
       ],
       "language": "el",
       "notes": "Τοπικό MP4 που επέλεξε ο χρήστης για το κεφάλαιο «Πεντηκοστή: Από το Ιστορικό Υπερώο στην Οικουμενική Εκκλησία» του προσωπικού ψηφιακού βιβλίου.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-085",
+      "type": "image",
+      "title": "Το Υπερώο της αρχαίας Ιερουσαλήμ",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-upper-room.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Υπερώο της Σιών",
+        "Ιερουσαλήμ",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από το ChatGPT Library, αρχειοθετημένη ως pentecost-upper-room.png και φιλοξενούμενη στο κεφάλαιο της Πεντηκοστής.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-086",
+      "type": "image",
+      "title": "Καλάθι με άρτους και ψάρια",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-basket.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "καλάθι",
+        "άρτοι",
+        "ψάρια",
+        "διακονία",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από το ChatGPT Library. Εικονογραφική σύνδεση με την προσφορά τροφής και τη διακονία, όχι τεκμήριο ιστορικού αντικειμένου της Πεντηκοστής.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-087",
+      "type": "image",
+      "title": "Λυχνάρι, ψωμί και κρασί",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-bread-wine.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "άρτος",
+        "οίνος",
+        "ευχαριστιακή σύναξη",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από το ChatGPT Library, αρχειοθετημένη ως pentecost-bread-wine.png και συνδεδεμένη με την ενότητα για τη λειτουργική ανάμνηση.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-088",
+      "type": "image",
+      "title": "Κυκλική τράπεζα με αντικείμενα",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-object-table.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "τράπεζα",
+        "λειτουργικά αντικείμενα",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Συμβολική εικόνα από το ChatGPT Library για την εκπαιδευτική διαδρομή του κεφαλαίου της Πεντηκοστής.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-089",
+      "type": "image",
+      "title": "Σανδάλια στο φως της κλήσης",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-sandals.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "σανδάλια",
+        "κλήση",
+        "αποστολή",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από το ChatGPT Library, αρχειοθετημένη ως pentecost-sandals.png και συνδεδεμένη με τους σταθμούς ανακάλυψης.",
       "date_added": "2026-10-10",
       "status": "active"
     }
