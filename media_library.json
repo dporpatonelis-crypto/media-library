@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-10",
-    "total": 127
+    "total": 128
   },
   "media": [
     {
@@ -3267,6 +3267,31 @@
       ],
       "language": "el",
       "notes": "Εικόνα από το ChatGPT Library, αρχειοθετημένη ως pentecost-sandals.png και συνδεδεμένη με τους σταθμούς ανακάλυψης.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-023",
+      "type": "video",
+      "title": "Η πορεία του Μωυσή",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/moses-journey.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Μωυσής",
+        "Έξοδος",
+        "Παλαιά Διαθήκη",
+        "Σκηνή του Μαρτυρίου",
+        "χάλκινο φίδι",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Βίντεο που επέλεξε ο χρήστης για το τέλος της ενότητας Ιερουσαλήμ και ιερών αντικειμένων. Κινηματογραφική εικονογράφηση επτά σκηνών με σύντομες ελληνικές επεξηγήσεις: Αίγυπτος, Βάτος, πληγές, Ερυθρά Θάλασσα, έρημος/μάννα, Σινά, χάλκινο φίδι/Σκηνή. HyperFrames/GSAP, 45 s, 1920×1080, χωρίς αφήγηση ή ήχο. Δημιουργία και render ελέγχθηκαν τοπικά· επιλεγμένο πρωτότυπο διατηρείται χωριστά.",
       "date_added": "2026-10-10",
       "status": "active"
     }
