@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-08",
-    "total": 121
+    "last_updated": "2026-10-10",
+    "total": 122
   },
   "media": [
     {
@@ -3126,6 +3126,29 @@
       "language": "el",
       "notes": "Παρουσίαση έξι διαφανειών από το PPTX που έδωσε ο χρήστης. Μεταφέρθηκε σε επεξεργάσιμο Google Slides για προβολή μέσα στο προσωπικό ψηφιακό βιβλίο. Εγκεκριμένη πρόσβαση: όποιος έχει τον σύνδεσμο, μόνο για προβολή.",
       "date_added": "2026-10-08",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-022",
+      "type": "video",
+      "title": "Το Μικρότερο Δωμάτιο Που Χώρεσε Τον Κόσμο",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-upper-room.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Υπερώο της Σιών",
+        "οικουμενική Εκκλησία",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Τοπικό MP4 που επέλεξε ο χρήστης για το κεφάλαιο «Πεντηκοστή: Από το Ιστορικό Υπερώο στην Οικουμενική Εκκλησία» του προσωπικού ψηφιακού βιβλίου.",
+      "date_added": "2026-10-10",
       "status": "active"
     }
   ]
