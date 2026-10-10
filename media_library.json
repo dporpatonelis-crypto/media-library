@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-10",
-    "total": 128
+    "total": 142
   },
   "media": [
     {
@@ -3292,6 +3292,334 @@
       ],
       "language": "el",
       "notes": "Βίντεο που επέλεξε ο χρήστης για το τέλος της ενότητας Ιερουσαλήμ και ιερών αντικειμένων. Κινηματογραφική εικονογράφηση επτά σκηνών με σύντομες ελληνικές επεξηγήσεις: Αίγυπτος, Βάτος, πληγές, Ερυθρά Θάλασσα, έρημος/μάννα, Σινά, χάλκινο φίδι/Σκηνή. HyperFrames/GSAP, 45 s, 1920×1080, χωρίς αφήγηση ή ήχο. Δημιουργία και render ελέγχθηκαν τοπικά· επιλεγμένο πρωτότυπο διατηρείται χωριστά.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-090",
+      "type": "image",
+      "title": "Πεντηκοστή — Προσευχή στο Υπερώο",
+      "url": "https://drive.google.com/file/d/1Kce7GmSnXNGvv6BPpHfULuqs3YmkPa8y/view?usp=drivesdk",
+      "source_platform": "ImageGen / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Νέα διορθωμένη εικόνα ImageGen με διαφορετική λήψη. Διδακτική εικονογράφηση του μαθήματος. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-091",
+      "type": "image",
+      "title": "Πεντηκοστή — Το Πνεύμα και η διδασκαλία",
+      "url": "https://drive.google.com/file/d/1Smj4ecQ6JRMPTlI0IOErknmtVHG04tse/view?usp=drivesdk",
+      "source_platform": "ImageGen / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Νέα διορθωμένη εικόνα ImageGen με διαφορετική λήψη. Διδακτική εικονογράφηση του μαθήματος. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-092",
+      "type": "image",
+      "title": "Πεντηκοστή — Ευχαριστία και κοινωνία αγαθών",
+      "url": "https://drive.google.com/file/d/19qiDnfB9QAzb8xyWQyXo0nW2wMcEXRGD/view?usp=drivesdk",
+      "source_platform": "ImageGen / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Νέα διορθωμένη εικόνα ImageGen με διαφορετική λήψη. Διδακτική εικονογράφηση του μαθήματος. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-093",
+      "type": "image",
+      "title": "Πεντηκοστή — Διακονία και φροντίδα",
+      "url": "https://drive.google.com/file/d/1Iq9X5n0z5VsFiNgnGpFpTHXGmrIWtZi0/view?usp=drivesdk",
+      "source_platform": "ImageGen / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Εικόνα ImageGen που ενέκρινε ο χρήστης. Διδακτική εικονογράφηση του μαθήματος. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-094",
+      "type": "image",
+      "title": "Πεντηκοστή — Προσευχή για όλον τον Αδάμ",
+      "url": "https://drive.google.com/file/d/1nfl_cKDP_Bi9dVAEvhhOu0Ap4U-4Juag/view?usp=drivesdk",
+      "source_platform": "ImageGen / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Εικόνα ImageGen που ενέκρινε ο χρήστης. Η διεύρυνση του Υπερώου είναι συμβολική και η προσευχή για όλον τον Αδάμ θεολογική παράφραση. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-024",
+      "type": "video",
+      "title": "Πεντηκοστή — Το Πνεύμα συγκροτεί την Εκκλησία",
+      "url": "https://drive.google.com/file/d/1MF4tStMDSHda2trtn4mddS_ZhYwEhq9m/view?usp=drivesdk",
+      "source_platform": "HyperFrames / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "HyperFrames, 90 s, 1920×1080, 30 fps, H.264/AAC, ελληνική αφήγηση Nestoras και υπότιτλοι. Αντίγραφο VR 47,9 MB. Ξεκλειδώνει μόνο με την ολοκλήρωση του ανεξάρτητου quiz jerusalem_pentecost_hymn. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-007",
+      "type": "audio",
+      "title": "Δημήτρης — Φλόγα και χαρίσματα",
+      "url": "https://drive.google.com/file/d/1ERkZmihsdFD1HjivytaxTHDXmMlS2iK8/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR",
+        "Δημήτρης",
+        "αφήγηση"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη παρουσίαση της σημασίας του αντικειμένου από τον Δημήτρη. Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, συνδεδεμένη στην κοινή 3D φωνή και στο υπάρχον LipSync του NPC. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-008",
+      "type": "audio",
+      "title": "Δημήτρης — Κύλινδρος και σοφία",
+      "url": "https://drive.google.com/file/d/1Fgi0bRO-Yw5eH0PYOS9BCn7XXwUkVMKl/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR",
+        "Δημήτρης",
+        "αφήγηση"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη παρουσίαση της σημασίας του αντικειμένου από τον Δημήτρη. Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, συνδεδεμένη στην κοινή 3D φωνή και στο υπάρχον LipSync του NPC. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-009",
+      "type": "audio",
+      "title": "Δημήτρης — Σανδάλια και λίθος του Στεφάνου",
+      "url": "https://drive.google.com/file/d/1k4ksbDQpR4B5MAes8b1rJnjWlDuQgq7b/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR",
+        "Δημήτρης",
+        "αφήγηση"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη παρουσίαση της σημασίας του αντικειμένου από τον Δημήτρη. Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, συνδεδεμένη στην κοινή 3D φωνή και στο υπάρχον LipSync του NPC. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-010",
+      "type": "audio",
+      "title": "Δημήτρης — Άρτος και οίνος",
+      "url": "https://drive.google.com/file/d/1b8Ne9vgobOhKDksqgVYNpxDYxdlNVv9L/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR",
+        "Δημήτρης",
+        "αφήγηση"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη παρουσίαση της σημασίας του αντικειμένου από τον Δημήτρη. Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, συνδεδεμένη στην κοινή 3D φωνή και στο υπάρχον LipSync του NPC. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-011",
+      "type": "audio",
+      "title": "Δημήτρης — Νομίσματα και κοινωνία",
+      "url": "https://drive.google.com/file/d/1DeiMcxYy59EStiQDN6sisMwhL13zHMWt/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR",
+        "Δημήτρης",
+        "αφήγηση"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη παρουσίαση της σημασίας του αντικειμένου από τον Δημήτρη. Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, συνδεδεμένη στην κοινή 3D φωνή και στο υπάρχον LipSync του NPC. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-012",
+      "type": "audio",
+      "title": "Δημήτρης — Καλάθι και διακονία",
+      "url": "https://drive.google.com/file/d/1MDzBUUdQoYnTCKavxPokRmWeScfiA-s7/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR",
+        "Δημήτρης",
+        "αφήγηση"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη παρουσίαση της σημασίας του αντικειμένου από τον Δημήτρη. Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, συνδεδεμένη στην κοινή 3D φωνή και στο υπάρχον LipSync του NPC. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "AUD-013",
+      "type": "audio",
+      "title": "Πεντηκοστή — Πλήρης ελληνική αφήγηση βίντεο",
+      "url": "https://drive.google.com/file/d/1Bmaavc90uyVkHXBaucW_ujogAt8F6RES/view?usp=drivesdk",
+      "source_platform": "Microsoft Edge TTS / Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Εγκεκριμένη αφήγηση πέντε ενοτήτων με Microsoft Edge TTS, el-GR-NestorasNeural (-5%, -3Hz). Mono PCM16, 48 kHz, 90 s, με παύσεις για τις πέντε σκηνές. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "date_added": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-010",
+      "type": "google_slides",
+      "title": "Πεντηκοστή — Τα έξι αντικείμενα του Υπερώου",
+      "url": "https://docs.google.com/presentation/d/1knOyKV-Y--uiukPz-u_Ny29PLHK2cv7doeZBJogoQgQ",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Unity",
+        "Mind Palace",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Νέα επεξεργάσιμη παρουσίαση 10 διαφανειών, 60 πλαίσια κειμένου, πλήρης ύμνος και σημειώσεις πηγών. Ελέγχθηκε οπτικά στο Google Slides. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
       "date_added": "2026-10-10",
       "status": "active"
     }
