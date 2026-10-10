@@ -3419,7 +3419,8 @@
       "app_context": [
         "Unity",
         "Mind Palace",
-        "HyperFrames"
+        "HyperFrames",
+        "Interactive Books"
       ],
       "unit_id": "lesson-002",
       "tags": [
@@ -3429,9 +3430,10 @@
         "MindPalaceVR"
       ],
       "language": "el",
-      "notes": "HyperFrames, 90 s, 1920×1080, 30 fps, H.264/AAC, ελληνική αφήγηση Nestoras και υπότιτλοι. Αντίγραφο VR 47,9 MB. Ξεκλειδώνει μόνο με την ολοκλήρωση του ανεξάρτητου quiz jerusalem_pentecost_hymn. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "notes": "HyperFrames, 90 s, 1920×1080, 30 fps, H.264/AAC, ελληνική αφήγηση Nestoras και υπότιτλοι. Αντίγραφο VR 47,9 MB. Ξεκλειδώνει μόνο με την ολοκλήρωση του ανεξάρτητου quiz jerusalem_pentecost_hymn. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο. Επιλεγμένο για τη σύνοψη της Πεντηκοστής στο προσωπικό ψηφιακό βιβλίο, έκδοση 6: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-pentecost-summary Δημόσιο αντίγραφο βίντεο: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-church-communion.mp4",
       "date_added": "2026-10-10",
-      "status": "active"
+      "status": "active",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/pentecost-church-communion.mp4"
     },
     {
       "media_id": "AUD-007",
@@ -3609,7 +3611,8 @@
       "app_context": [
         "Unity",
         "Mind Palace",
-        "HyperFrames"
+        "HyperFrames",
+        "Interactive Books"
       ],
       "unit_id": "lesson-002",
       "tags": [
@@ -3619,7 +3622,7 @@
         "MindPalaceVR"
       ],
       "language": "el",
-      "notes": "Νέα επεξεργάσιμη παρουσίαση 10 διαφανειών, 60 πλαίσια κειμένου, πλήρης ύμνος και σημειώσεις πηγών. Ελέγχθηκε οπτικά στο Google Slides. Αρχείο στη Media Library του κατόχου· απαιτεί σύνδεση στο Google Drive. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο.",
+      "notes": "Νέα επεξεργάσιμη παρουσίαση 10 διαφανειών, 60 πλαίσια κειμένου, πλήρης ύμνος και σημειώσεις πηγών. Ελέγχθηκε οπτικά στο Google Slides. Πρόσβαση που επέτρεψε ο δημιουργός: όποιος έχει τον σύνδεσμο, μόνο προβολή. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο. Ενσωματωμένη στη σύνοψη της Πεντηκοστής στο προσωπικό ψηφιακό βιβλίο, έκδοση 6: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-pentecost-summary",
       "date_added": "2026-10-10",
       "status": "active"
     }
