@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-10",
-    "total": 142
+    "last_updated": "2026-10-11",
+    "total": 151
   },
   "media": [
     {
@@ -3625,6 +3625,195 @@
       "notes": "Νέα επεξεργάσιμη παρουσίαση 10 διαφανειών, 60 πλαίσια κειμένου, πλήρης ύμνος και σημειώσεις πηγών. Ελέγχθηκε οπτικά στο Google Slides. Πρόσβαση που επέτρεψε ο δημιουργός: όποιος έχει τον σύνδεσμο, μόνο προβολή. Τοπικά assets Unity λειτουργούν χωρίς Drive. Δεν αντικαθιστά παλαιότερο μέσο. Ενσωματωμένη στη σύνοψη της Πεντηκοστής στο προσωπικό ψηφιακό βιβλίο, έκδοση 6: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-pentecost-summary",
       "date_added": "2026-10-10",
       "status": "active"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Αβραάμ",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-025",
+      "type": "video",
+      "title": "Η πορεία του Αβραάμ — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/abraham-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: That’s the Way It Is. Render και έλεγχος ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-abraham-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Αβραάμ",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-011",
+      "type": "google_slides",
+      "title": "Η πορεία του Αβραάμ — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1obhHzxFimu8ecB2zpNyAu73Ogv7RB3CuJaeOn0yxmcg/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια, τίτλος και μικρός υπότιτλος στη μορφή της προεπισκόπησης. Η άδεια προβολής με σύνδεσμο επαληθεύθηκε· επεξεργασία μόνο από τον κάτοχο. Οπτικός έλεγχος του native PDF εξαγωγής. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-abraham-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Αβραάμ",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-095",
+      "type": "image",
+      "title": "Η πορεία του Αβραάμ — Κλήση: ο Αβραάμ αναχωρεί για τη γη της υπόσχεσης.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/abraham/01-calling.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εικόνα εγκεκριμένη από τον χρήστη στις 2026-10-11. JPEG για το βιβλίο χωρίς γεωμετρική αλλαγή· πρωτότυπο PNG διατηρείται χωριστά στο πακέτο εικόνων. Γένεση 12:1–5"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Δαυίδ",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-026",
+      "type": "video",
+      "title": "Η πορεία του Δαυίδ — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/david-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: Leave Her Johnny (Woodkid Resynced). Render και έλεγχος ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-david-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Δαυίδ",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-012",
+      "type": "google_slides",
+      "title": "Η πορεία του Δαυίδ — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1kDEzeQsCObnfHM-wT5zmYKm-4TbjtbcrZQ8PA7cVTe8/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια, τίτλος και μικρός υπότιτλος στη μορφή της προεπισκόπησης. Η άδεια προβολής με σύνδεσμο επαληθεύθηκε· επεξεργασία μόνο από τον κάτοχο. Οπτικός έλεγχος του native PDF εξαγωγής. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-david-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Δαυίδ",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-096",
+      "type": "image",
+      "title": "Η πορεία του Δαυίδ — Βηθλεέμ: ο νεαρός Δαυίδ φυλάει τα πρόβατα.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/david/01-shepherd.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εικόνα εγκεκριμένη από τον χρήστη στις 2026-10-11. JPEG για το βιβλίο χωρίς γεωμετρική αλλαγή· πρωτότυπο PNG διατηρείται χωριστά στο πακέτο εικόνων. Α΄ Βασιλειών 16:11 / 1 Samuel 16:11"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Ηλίας",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-027",
+      "type": "video",
+      "title": "Η πορεία του Ηλία — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/elijah-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: Assassin’s Creed Rogue Main Theme. Render και έλεγχος ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-elijah-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Ηλίας",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-013",
+      "type": "google_slides",
+      "title": "Η πορεία του Ηλία — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1ejwL1HZJAQttNUaotQkV6WnvN9J-klXd0AtsdW40gow/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια, τίτλος και μικρός υπότιτλος στη μορφή της προεπισκόπησης. Η άδεια προβολής με σύνδεσμο επαληθεύθηκε· επεξεργασία μόνο από τον κάτοχο. Οπτικός έλεγχος του native PDF εξαγωγής. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-elijah-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Ηλίας",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-097",
+      "type": "image",
+      "title": "Η πορεία του Ηλία — Αχαάβ: ο Ηλίας αναγγέλλει την ανομβρία.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/elijah/01-ahab-drought.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εικόνα εγκεκριμένη από τον χρήστη στις 2026-10-11. JPEG για το βιβλίο χωρίς γεωμετρική αλλαγή· πρωτότυπο PNG διατηρείται χωριστά στο πακέτο εικόνων. Γ΄ Βασιλειών 17:1 / 1 Kings 17:1"
     }
   ]
 }
