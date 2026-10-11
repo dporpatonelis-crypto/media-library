@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-11",
-    "total": 151
+    "total": 167
   },
   "media": [
     {
@@ -3814,6 +3814,346 @@
       "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/elijah/01-ahab-drought.jpg",
       "source_platform": "ImageGen / GitHub Pages",
       "notes": "Εικόνα εγκεκριμένη από τον χρήστη στις 2026-10-11. JPEG για το βιβλίο χωρίς γεωμετρική αλλαγή· πρωτότυπο PNG διατηρείται χωριστά στο πακέτο εικόνων. Γ΄ Βασιλειών 17:1 / 1 Kings 17:1"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Ευαγγελιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-028",
+      "type": "video",
+      "title": "Η πορεία του Ιωάννη — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-evangelist-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: thats-the-way-it-is. Render HyperFrames, πλήρες check και έλεγχος τελικού ήχου ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-john-evangelist-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Ευαγγελιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-014",
+      "type": "google_slides",
+      "title": "Η πορεία του Ιωάννη — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1A_LBWURpBkRsCZGIqxt03Wog2jLGLQRrwqpoX8aRpFc/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια. Ελέγχθηκαν και οι 7 σελίδες του native PDF εξαγωγής. Η πρόσβαση χωρίς σύνδεση στην Google δεν έχει ακόμη επαληθευθεί. Υπάρχει δημόσιο αντίγραφο PDF: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-evangelist-slides.pdf",
+      "public_preview_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-evangelist-slides.pdf"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Ευαγγελιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-098",
+      "type": "image",
+      "title": "Η πορεία του Ιωάννη — Κλήση: ο Ιωάννης αφήνει τα δίχτυα και ακολουθεί τον Χριστό.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-evangelist/01-calling.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εγκεκριμένη εικόνα στις 2026-10-11. JPEG ίδιας γεωμετρίας 1672×941 για το βιβλίο· πρωτότυπο PNG διατηρείται χωριστά. Μάρκος 1:19–20"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Ευαγγελιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "DOC-001",
+      "type": "document",
+      "title": "Η πορεία του Ιωάννη — Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-evangelist-slides.pdf",
+      "source_platform": "Google Drive export / GitHub Pages",
+      "notes": "7 διαφάνειες από την επεξεργάσιμη native παρουσίαση. Δημόσιο αντίγραφο για προβολή χωρίς λογαριασμό Google. Πρωτότυπο: https://docs.google.com/presentation/d/1A_LBWURpBkRsCZGIqxt03Wog2jLGLQRrwqpoX8aRpFc/edit?usp=drivesdk"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Πέτρος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-029",
+      "type": "video",
+      "title": "Η πορεία του Πέτρου — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/peter-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: thats-the-way-it-is. Render HyperFrames, πλήρες check και έλεγχος τελικού ήχου ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-peter-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Πέτρος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-015",
+      "type": "google_slides",
+      "title": "Η πορεία του Πέτρου — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1eN_jyEiGJ28XEHs5qgn6p9sYiARaCfZmny9oti10xXg/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια. Ελέγχθηκαν και οι 7 σελίδες του native PDF εξαγωγής. Η πρόσβαση χωρίς σύνδεση στην Google δεν έχει ακόμη επαληθευθεί. Υπάρχει δημόσιο αντίγραφο PDF: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/peter-slides.pdf",
+      "public_preview_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/peter-slides.pdf"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Πέτρος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-099",
+      "type": "image",
+      "title": "Η πορεία του Πέτρου — Αλιεία: ο Πέτρος καλείται να ακολουθήσει τον Χριστό.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/peter/01-miraculous-catch.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εγκεκριμένη εικόνα στις 2026-10-11. JPEG ίδιας γεωμετρίας 1672×941 για το βιβλίο· πρωτότυπο PNG διατηρείται χωριστά. Λουκάς 5:1–11"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Πέτρος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "DOC-002",
+      "type": "document",
+      "title": "Η πορεία του Πέτρου — Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/peter-slides.pdf",
+      "source_platform": "Google Drive export / GitHub Pages",
+      "notes": "7 διαφάνειες από την επεξεργάσιμη native παρουσίαση. Δημόσιο αντίγραφο για προβολή χωρίς λογαριασμό Google. Πρωτότυπο: https://docs.google.com/presentation/d/1eN_jyEiGJ28XEHs5qgn6p9sYiARaCfZmny9oti10xXg/edit?usp=drivesdk"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Βαπτιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-030",
+      "type": "video",
+      "title": "Η πορεία του Ιωάννη του Βαπτιστή — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-baptist-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: assassins-creed-rogue. Render HyperFrames, πλήρες check και έλεγχος τελικού ήχου ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-john-baptist-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Βαπτιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-016",
+      "type": "google_slides",
+      "title": "Η πορεία του Ιωάννη του Βαπτιστή — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1MsqGzOOau_juVcOB1xCpaFWc02iCjoznisHGEyK29I4/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια. Ελέγχθηκαν και οι 7 σελίδες του native PDF εξαγωγής. Η πρόσβαση χωρίς σύνδεση στην Google δεν έχει ακόμη επαληθευθεί. Υπάρχει δημόσιο αντίγραφο PDF: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-baptist-slides.pdf",
+      "public_preview_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-baptist-slides.pdf"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Βαπτιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-100",
+      "type": "image",
+      "title": "Η πορεία του Ιωάννη του Βαπτιστή — Επίσκεψη: ο Ιωάννης σκιρτά μπροστά στον Χριστό.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-baptist/01-visitation.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εγκεκριμένη εικόνα στις 2026-10-11. JPEG ίδιας γεωμετρίας 1672×941 για το βιβλίο· πρωτότυπο PNG διατηρείται χωριστά. Λουκάς 1:39–45 · συμβολική απόδοση"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Ιωάννης ο Βαπτιστής",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "DOC-003",
+      "type": "document",
+      "title": "Η πορεία του Ιωάννη του Βαπτιστή — Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/john-baptist-slides.pdf",
+      "source_platform": "Google Drive export / GitHub Pages",
+      "notes": "7 διαφάνειες από την επεξεργάσιμη native παρουσίαση. Δημόσιο αντίγραφο για προβολή χωρίς λογαριασμό Google. Πρωτότυπο: https://docs.google.com/presentation/d/1MsqGzOOau_juVcOB1xCpaFWc02iCjoznisHGEyK29I4/edit?usp=drivesdk"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Παύλος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "VID-031",
+      "type": "video",
+      "title": "Η πορεία του Παύλου — Βίντεο 45″",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/paul-journey.mp4",
+      "source_platform": "GitHub Pages / HyperFrames",
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: leave-her-johnny. Render HyperFrames, πλήρες check και έλεγχος τελικού ήχου ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-paul-journey"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Παύλος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "SLD-017",
+      "type": "google_slides",
+      "title": "Η πορεία του Παύλου — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1BRyBNBs7QR6YynGDH98TcEldOOrkR2KDtbrDVmil8zI/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια. Ελέγχθηκαν και οι 7 σελίδες του native PDF εξαγωγής. Η πρόσβαση χωρίς σύνδεση στην Google δεν έχει ακόμη επαληθευθεί. Υπάρχει δημόσιο αντίγραφο PDF: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/paul-slides.pdf",
+      "public_preview_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/paul-slides.pdf"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Παύλος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "IMG-101",
+      "type": "image",
+      "title": "Η πορεία του Παύλου — Διωγμός: ο Σαούλ διώκει τους μαθητές του Χριστού.",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/paul/01-persecution.jpg",
+      "source_platform": "ImageGen / GitHub Pages",
+      "notes": "Εγκεκριμένη εικόνα στις 2026-10-11. JPEG ίδιας γεωμετρίας 1672×941 για το βιβλίο· πρωτότυπο PNG διατηρείται χωριστά. Πράξεις 8:1–3"
+    },
+    {
+      "app_context": [
+        "HyperFrames",
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Καινή Διαθήκη",
+        "Απόστολος Παύλος",
+        "νεοβυζαντινή ζωγραφική"
+      ],
+      "language": "el",
+      "date_added": "2026-10-11",
+      "status": "active",
+      "media_id": "DOC-004",
+      "type": "document",
+      "title": "Η πορεία του Παύλου — Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/paul-slides.pdf",
+      "source_platform": "Google Drive export / GitHub Pages",
+      "notes": "7 διαφάνειες από την επεξεργάσιμη native παρουσίαση. Δημόσιο αντίγραφο για προβολή χωρίς λογαριασμό Google. Πρωτότυπο: https://docs.google.com/presentation/d/1BRyBNBs7QR6YynGDH98TcEldOOrkR2KDtbrDVmil8zI/edit?usp=drivesdk"
     }
   ]
 }
