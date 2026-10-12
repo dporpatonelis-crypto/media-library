@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-12",
-    "total": 172
+    "total": 173
   },
   "media": [
     {
@@ -4260,6 +4260,29 @@
       ],
       "language": "el",
       "notes": "Φύλλο εργασίας με τέσσερις θεματικές ενότητες και σύντομο προσωπικό αναστοχασμό. Πρόσβαση: όποιος έχει τον σύνδεσμο · προβολή.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-032",
+      "type": "youtube",
+      "title": "YouTube — Βίντεο επίδειξης",
+      "url": "https://youtu.be/lDYVKoY01ZA",
+      "source_platform": "YouTube",
+      "app_context": [
+        "Personal Page"
+      ],
+      "unit_id": "",
+      "tags": [
+        "YouTube",
+        "βίντεο",
+        "τάξη",
+        "εκπαιδευτικό υλικό",
+        "demo",
+        "Personal Page"
+      ],
+      "language": "el",
+      "notes": "YouTube video selected as the demo on Personal Page → Educational Apps.",
       "date_added": "2026-10-12",
       "status": "active"
     }
