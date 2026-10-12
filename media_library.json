@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-12",
-    "total": 173
+    "total": 174
   },
   "media": [
     {
@@ -4237,7 +4237,7 @@
         "Επιστήμη και θρησκεία"
       ],
       "language": "el",
-      "notes": "Προσωπικό ψηφιακό βιβλίο, επαληθευμένη δημόσια έκδοση 11 με συνοδευτικό PDF 34 σελίδων. Νέα ενότητα «Επιστήμη και θρησκεία»: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-science-religion-overview — επιλεγμένη εικόνα, φύλλο εργασίας και δραστηριότητες στην Κλασική Αγορά του MindPalaceVR. Η ενότητα «Αποκάλυψη» παραμένει διαθέσιμη.",
+      "notes": "Προσωπικό ψηφιακό βιβλίο. Επαληθευμένη δημόσια web έκδοση 12. Η ενότητα «Επιστήμη και θρησκεία» περιλαμβάνει σύνδεσμο προς το μόνιμο σενάριο Idea Weaver. Το συνοδευτικό PDF παραμένει έκδοση 11 (34 σελίδες). Ενότητα: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-science-religion-overview",
       "date_added": "2026-10-12",
       "status": "active"
     },
@@ -4283,6 +4283,28 @@
       ],
       "language": "el",
       "notes": "YouTube video selected as the demo on Personal Page → Educational Apps.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-003",
+      "type": "website",
+      "title": "Επιστήμη και θρησκεία — Idea Weaver",
+      "url": "https://dporpatonelis-crypto.github.io/idea-weaver-board/library",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Idea Weaver"
+      ],
+      "unit_id": "lesson-005",
+      "tags": [
+        "Επιστήμη και θρησκεία",
+        "Idea Weaver",
+        "διερεύνηση",
+        "Γ΄ Λυκείου"
+      ],
+      "language": "el",
+      "notes": "Μόνιμο σενάριο στη βιβλιοθήκη του Idea Weaver, βασισμένο στη διαφάνεια «Επιστήμη και Θρησκεία» του Lovable template. Δημόσια πρόσβαση μέσω της βιβλιοθήκης σεναρίων.",
       "date_added": "2026-10-12",
       "status": "active"
     }
