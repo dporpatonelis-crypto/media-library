@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-12",
-    "total": 174
+    "total": 177
   },
   "media": [
     {
@@ -4234,10 +4234,11 @@
         "ψηφιακό βιβλίο",
         "μαθήματα",
         "Αποκάλυψη",
-        "Επιστήμη και θρησκεία"
+        "Επιστήμη και θρησκεία",
+        "Πεντηκοστή"
       ],
       "language": "el",
-      "notes": "Προσωπικό ψηφιακό βιβλίο. Επαληθευμένη δημόσια web έκδοση 12. Η ενότητα «Επιστήμη και θρησκεία» περιλαμβάνει σύνδεσμο προς το μόνιμο σενάριο Idea Weaver. Το συνοδευτικό PDF παραμένει έκδοση 11 (34 σελίδες). Ενότητα: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-science-religion-overview",
+      "notes": "Προσωπικό ψηφιακό βιβλίο. Δημόσια web έκδοση 13. Η ενότητα «Επιστήμη και θρησκεία» διατηρεί τον σύνδεσμο Idea Weaver· η Πεντηκοστή περιλαμβάνει τα επιλεγμένα υλικά και δεύτερο επίπεδο JSON. Το PDF παραμένει έκδοση 11. Πεντηκοστή: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-pentecost-selected-materials",
       "date_added": "2026-10-12",
       "status": "active"
     },
@@ -4305,6 +4306,69 @@
       ],
       "language": "el",
       "notes": "Μόνιμο σενάριο στη βιβλιοθήκη του Idea Weaver, βασισμένο στη διαφάνεια «Επιστήμη και Θρησκεία» του Lovable template. Δημόσια πρόσβαση μέσω της βιβλιοθήκης σεναρίων.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-004",
+      "type": "website",
+      "title": "Πεντηκοστή — Κυκλική Τράπεζα της Εκκλησίας",
+      "url": "https://dporpatonelis-crypto.github.io/Interactive-sculpture/?scenario=circular-table",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Interactive Sculpture"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Υπερώο",
+        "έξι ευρήματα",
+        "ύμνος"
+      ],
+      "language": "el",
+      "notes": "Έξι ευρήματα και σύντομες συνδέσεις με τον ύμνο της Πεντηκοστής. Το URL επιβεβαιώθηκε από το σενάριο του repo· δεν δοκιμάστηκε εδώ η εφαρμογή.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-006",
+      "type": "document",
+      "title": "Πεντηκοστή — Χαρτογράφηση VR",
+      "url": "https://drive.google.com/file/d/1gTpCbIi_XlbupeGTisTBB9h02agP-39Y/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "MindPalaceVR"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "Υπερώο",
+        "MindPalaceVR"
+      ],
+      "language": "el",
+      "notes": "Η χαρτογράφηση καταγράφει quiz και έξι παρουσιάσεις ευρημάτων. Το Drive αρχείο είναι διαθέσιμο μόνο στον κάτοχο.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-007",
+      "type": "document",
+      "title": "Πεντηκοστή — Επιλεγμένο υλικό",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/sources/pentecost-materials.json",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "Πεντηκοστή",
+        "επιλεγμένο υλικό",
+        "ψηφιακό βιβλίο"
+      ],
+      "language": "el",
+      "notes": "Σύντομες περιγραφές και σύνδεσμοι για τα τέσσερα επιλεγμένα υλικά της Πεντηκοστής.",
       "date_added": "2026-10-12",
       "status": "active"
     }
