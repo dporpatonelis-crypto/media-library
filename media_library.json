@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-12",
-    "total": 170
+    "total": 171
   },
   "media": [
     {
@@ -4215,6 +4215,28 @@
       ],
       "language": "el",
       "notes": "Βασικός σύνδεσμος εφαρμογής, επαληθευμένος στον browser στις 12/10/2026. Το μοντέλο tree-revelation υπάρχει στον κατάλογο· το ενεργό contributions.json αφορά την Πίστη. Δεν ενεργοποιήθηκε άλλο περιεχόμενο.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "HTML-003",
+      "type": "interactive_book",
+      "title": "Το ψηφιακό μου βιβλίο",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "Web Apps"
+      ],
+      "unit_id": "Digital_Lessons",
+      "tags": [
+        "ψηφιακό βιβλίο",
+        "μαθήματα",
+        "Αποκάλυψη"
+      ],
+      "language": "el",
+      "notes": "Προσωπικό ψηφιακό βιβλίο, επαληθευμένη δημόσια έκδοση 9, με συνοδευτικό PDF 30 σελίδων. Νέα ενότητα: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-apokalypsi — έξι πάπυροι, επιλεγμένο ψηφιακό υλικό, διδακτική πορεία και βασικοί σύνδεσμοι εφαρμογών.",
       "date_added": "2026-10-12",
       "status": "active"
     }
