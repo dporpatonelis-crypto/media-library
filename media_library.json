@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-11",
-    "total": 167
+    "last_updated": "2026-10-12",
+    "total": 170
   },
   "media": [
     {
@@ -4154,6 +4154,69 @@
       "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/new-testament-journeys/paul-slides.pdf",
       "source_platform": "Google Drive export / GitHub Pages",
       "notes": "7 διαφάνειες από την επεξεργάσιμη native παρουσίαση. Δημόσιο αντίγραφο για προβολή χωρίς λογαριασμό Google. Πρωτότυπο: https://docs.google.com/presentation/d/1BRyBNBs7QR6YynGDH98TcEldOOrkR2KDtbrDVmil8zI/edit?usp=drivesdk"
+    },
+    {
+      "media_id": "SLD-018",
+      "type": "google_slides",
+      "title": "Αποκάλυψη — Ο χάρτης στη διαφάνεια 2",
+      "url": "https://docs.google.com/presentation/d/1kmnmtbIiGHRrPHlaKNaJ_QJPtuPZXSzGALTppAGILY0/edit",
+      "source_platform": "Google Slides",
+      "app_context": [
+        "Interactive Books",
+        "Lesson Preparation"
+      ],
+      "unit_id": "lesson-004",
+      "tags": [
+        "Αποκάλυψη",
+        "χάρτης",
+        "έξι περιοχές"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένη παρουσίαση «δόγμα και βίωμα», διαφάνεια 2. Σύνδεσμος ανοίγματος της ίδιας παρουσίασης που έχει καταγραφεί ως SLD-007 με άλλο URL ενσωμάτωσης. Δεν έγινε αναδιάταξη ή αλλαγή πρόσβασης.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-001",
+      "type": "website",
+      "title": "Αποκάλυψη — Έξι ανακαλύψεις · Interactive Sculpture",
+      "url": "https://dporpatonelis-crypto.github.io/Interactive-sculpture/?scenario=slides-discovery",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Lesson Preparation"
+      ],
+      "unit_id": "lesson-004",
+      "tags": [
+        "Αποκάλυψη",
+        "ανακαλύψεις",
+        "γλυπτό"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένη εφαρμογή με τα έξι σημεία του χάρτη της Αποκάλυψης. Ο σύνδεσμος και η επικεφαλίδα του αντίστοιχου περιεχομένου επαληθεύθηκαν στον browser στις 12/10/2026. Δεν έγινε δοκιμή με headset.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-002",
+      "type": "website",
+      "title": "Light Up Legacy — Δέντρο της Αποκάλυψης",
+      "url": "https://dporpatonelis-crypto.github.io/light-up-legacy/",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Lesson Preparation"
+      ],
+      "unit_id": "lesson-004",
+      "tags": [
+        "Αποκάλυψη",
+        "τρισδιάστατο μοντέλο",
+        "δέντρο"
+      ],
+      "language": "el",
+      "notes": "Βασικός σύνδεσμος εφαρμογής, επαληθευμένος στον browser στις 12/10/2026. Το μοντέλο tree-revelation υπάρχει στον κατάλογο· το ενεργό contributions.json αφορά την Πίστη. Δεν ενεργοποιήθηκε άλλο περιεχόμενο.",
+      "date_added": "2026-10-12",
+      "status": "active"
     }
   ]
 }
