@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-12",
-    "total": 171
+    "total": 172
   },
   "media": [
     {
@@ -4237,6 +4237,28 @@
       ],
       "language": "el",
       "notes": "Προσωπικό ψηφιακό βιβλίο, επαληθευμένη δημόσια έκδοση 9, με συνοδευτικό PDF 30 σελίδων. Νέα ενότητα: https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-apokalypsi — έξι πάπυροι, επιλεγμένο ψηφιακό υλικό, διδακτική πορεία και βασικοί σύνδεσμοι εφαρμογών.",
+      "date_added": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-005",
+      "type": "document",
+      "title": "Επιστήμη και θρησκεία · Φύλλο εργασίας μαθητή",
+      "url": "https://docs.google.com/document/d/1zTnV0OnFKLlx0LA-g5z6HrdabS6IqHR-LJVqGsYGV90/edit?usp=sharing",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-005",
+      "tags": [
+        "επιστήμη",
+        "θρησκεία",
+        "φύλλο εργασίας",
+        "επιστημονική μέθοδος",
+        "γνώση μέσω καρδιάς"
+      ],
+      "language": "el",
+      "notes": "Φύλλο εργασίας με τέσσερις θεματικές ενότητες και σύντομο προσωπικό αναστοχασμό. Πρόσβαση: όποιος έχει τον σύνδεσμο · προβολή.",
       "date_added": "2026-10-12",
       "status": "active"
     }
