@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-12",
-    "total": 177
+    "last_updated": "2026-10-13",
+    "total": 185
   },
   "media": [
     {
@@ -4371,6 +4371,198 @@
       "notes": "Σύντομες περιγραφές και σύνδεσμοι για τα τέσσερα επιλεγμένα υλικά της Πεντηκοστής.",
       "date_added": "2026-10-12",
       "status": "active"
+    },
+    {
+      "media_id": "IMG-102",
+      "type": "image",
+      "title": "Μέγας Αθανάσιος — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-athanasius.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Αθανάσιος",
+        "Νίκαια",
+        "ομοούσιος",
+        "Πατέρες της Εκκλησίας"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Alexandrian Bishop in Teaching Stance-2.png». Πλήρες πρωτότυπο PNG 1024×1536, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Alexandrian Bishop in Teaching Stance-2.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-athanasius.png"
+    },
+    {
+      "media_id": "IMG-103",
+      "type": "image",
+      "title": "Μέγας Βασίλειος — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-basil.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Βασίλειος",
+        "ποιμαντική",
+        "μοναχική ζωή",
+        "φιλανθρωπία"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Ascetic Cappadocian Bishop Offering Help-1.png». Πλήρες πρωτότυπο PNG 1024×1536, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Ascetic Cappadocian Bishop Offering Help-1.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-basil.png"
+    },
+    {
+      "media_id": "IMG-104",
+      "type": "image",
+      "title": "Γρηγόριος ο Θεολόγος — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-gregory-theologian.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος ο Θεολόγος",
+        "Αγία Τριάδα",
+        "Θεολογικοί Λόγοι",
+        "ρητορική"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Late-antique bishop orator with parchment-3.png». Πλήρες πρωτότυπο PNG 1024×1536, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Late-antique bishop orator with parchment-3.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-gregory-theologian.png"
+    },
+    {
+      "media_id": "IMG-105",
+      "type": "image",
+      "title": "Κύριλλος Αλεξανδρείας — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-cyril.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κύριλλος Αλεξανδρείας",
+        "Θεοτόκος",
+        "Χριστολογία",
+        "Ευαγγέλιο"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Alexandrian Bishop with Gospel Book-5.png». Πλήρες πρωτότυπο PNG 1024×1536, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Alexandrian Bishop with Gospel Book-5.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-cyril.png"
+    },
+    {
+      "media_id": "IMG-106",
+      "type": "image",
+      "title": "Μάξιμος Ομολογητής — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-maximus.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μάξιμος Ομολογητής",
+        "δύο θελήσεις",
+        "δύο ενέργειες",
+        "Χριστολογία"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Seventh-Century Monk with Scroll-4.png». Πλήρες πρωτότυπο PNG 1024×1536, με διαφανές φόντο, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Seventh-Century Monk with Scroll-4.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-maximus.png"
+    },
+    {
+      "media_id": "IMG-107",
+      "type": "image",
+      "title": "Συμεών ο Νέος Θεολόγος — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-symeon.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Συμεών ο Νέος Θεολόγος",
+        "προσευχή",
+        "θείο φως",
+        "θεία αγάπη"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Byzantine Monk in Quiet Prayer-6.png». Πλήρες πρωτότυπο PNG 1024×1536, με διαφανές φόντο, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Byzantine Monk in Quiet Prayer-6.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-symeon.png"
+    },
+    {
+      "media_id": "IMG-108",
+      "type": "image",
+      "title": "Γρηγόριος Παλαμάς — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-palamas.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος Παλαμάς",
+        "ησυχασμός",
+        "ουσία και ενέργειες",
+        "άκτιστο φως"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Byzantine monk-bishop teaching in robes-7.png». Πλήρες πρωτότυπο PNG 1024×1536, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Byzantine monk-bishop teaching in robes-7.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-palamas.png"
+    },
+    {
+      "media_id": "IMG-109",
+      "type": "image",
+      "title": "Ιωάννης ο Χρυσόστομος — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-john-chrysostom.png",
+      "source_platform": "ChatGPT Library / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης ο Χρυσόστομος",
+        "κήρυγμα",
+        "Θεία Λειτουργία",
+        "φροντίδα φτωχών"
+      ],
+      "language": "el",
+      "notes": "Εικόνα από τη βιβλιοθήκη ChatGPT του χρήστη, διαθέσιμη ως τοπικό ληφθέν αρχείο «Saint John Chrysostom in Sermon Pose.png». Πλήρες πρωτότυπο PNG 1024×1536, χωρίς περικοπή. Συνδέεται με την αφηγηματική σελίδα του Πατέρα στο προσωπικό ψηφιακό βιβλίο.",
+      "date_added": "2026-10-13",
+      "status": "active",
+      "source_filename": "Saint John Chrysostom in Sermon Pose.png",
+      "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-john-chrysostom.png"
     }
   ]
 }
