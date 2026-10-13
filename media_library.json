@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-13",
-    "total": 185
+    "total": 217
   },
   "media": [
     {
@@ -4563,6 +4563,710 @@
       "status": "active",
       "source_filename": "Saint John Chrysostom in Sermon Pose.png",
       "asset_url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers/father-john-chrysostom.png"
+    },
+    {
+      "media_id": "VID-033",
+      "type": "video",
+      "title": "Μέγας Αθανάσιος — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/athanasius/athanasius.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Αθανάσιος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-019",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Μέγας Αθανάσιος",
+      "url": "https://docs.google.com/presentation/d/1zXQhZYZlY3pziPxnG6ek4OXj66eUcUhAllS4cP2rXq8",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Αθανάσιος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-110",
+      "type": "image",
+      "title": "Μέγας Αθανάσιος — Σπουδή στην Αλεξάνδρεια",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/athanasius/01-alexandria-study.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Αθανάσιος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-008",
+      "type": "document",
+      "title": "Μέγας Αθανάσιος — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/athanasius/athanasius-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Αθανάσιος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-034",
+      "type": "video",
+      "title": "Μέγας Βασίλειος — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/basil/basil.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Βασίλειος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-020",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Μέγας Βασίλειος",
+      "url": "https://docs.google.com/presentation/d/1U1ZBEVCOuIr8D4q1bW7SnitbTye-vqZPh9dFDDma_S4",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Βασίλειος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-111",
+      "type": "image",
+      "title": "Μέγας Βασίλειος — Σπουδές στην Αθήνα",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/basil/01-athens.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Βασίλειος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-009",
+      "type": "document",
+      "title": "Μέγας Βασίλειος — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/basil/basil-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μέγας Βασίλειος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-035",
+      "type": "video",
+      "title": "Γρηγόριος ο Θεολόγος — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/gregory-theologian/gregory-theologian.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος ο Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-021",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Γρηγόριος ο Θεολόγος",
+      "url": "https://docs.google.com/presentation/d/1-pu-kgksqc3H9J25c_1GnVqE2tWYRoSTdC_PVpoSXDI",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος ο Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-112",
+      "type": "image",
+      "title": "Γρηγόριος ο Θεολόγος — Αθήνα",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/gregory-theologian/01-athens.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος ο Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-010",
+      "type": "document",
+      "title": "Γρηγόριος ο Θεολόγος — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/gregory-theologian/gregory-theologian-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος ο Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-036",
+      "type": "video",
+      "title": "Ιωάννης Χρυσόστομος — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/john-chrysostom/john-chrysostom.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Χρυσόστομος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-022",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Ιωάννης Χρυσόστομος",
+      "url": "https://docs.google.com/presentation/d/11fmo246q6mjeShNpHVjEvVgF9pWMOCJSf08av_V6k4o",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Χρυσόστομος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-113",
+      "type": "image",
+      "title": "Ιωάννης Χρυσόστομος — Οικογένεια και παιδεία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/john-chrysostom/01-education.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Χρυσόστομος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-011",
+      "type": "document",
+      "title": "Ιωάννης Χρυσόστομος — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/john-chrysostom/john-chrysostom-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Χρυσόστομος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-037",
+      "type": "video",
+      "title": "Κύριλλος Αλεξανδρείας — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/cyril/cyril.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κύριλλος Αλεξανδρείας",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-023",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Κύριλλος Αλεξανδρείας",
+      "url": "https://docs.google.com/presentation/d/182OzPqkDnsGhHZDfiZJAd9MxhGQ0ZSYqnuXQxBO_wuc",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κύριλλος Αλεξανδρείας",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-114",
+      "type": "image",
+      "title": "Κύριλλος Αλεξανδρείας — Άσκηση στη Νιτρία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/cyril/01-nitria.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κύριλλος Αλεξανδρείας",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-012",
+      "type": "document",
+      "title": "Κύριλλος Αλεξανδρείας — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/cyril/cyril-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κύριλλος Αλεξανδρείας",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-038",
+      "type": "video",
+      "title": "Μάξιμος Ομολογητής — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/maximus/maximus.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μάξιμος Ομολογητής",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-024",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Μάξιμος Ομολογητής",
+      "url": "https://docs.google.com/presentation/d/19uju6p4oHNCbUTEJWvhGwhhOOsGBukZynxBwHg0lrt4",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μάξιμος Ομολογητής",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-115",
+      "type": "image",
+      "title": "Μάξιμος Ομολογητής — Μοναχός στη Χρυσόπολη",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/maximus/01-chrysopolis.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μάξιμος Ομολογητής",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-013",
+      "type": "document",
+      "title": "Μάξιμος Ομολογητής — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/maximus/maximus-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Μάξιμος Ομολογητής",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-039",
+      "type": "video",
+      "title": "Συμεών ο Νέος Θεολόγος — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/symeon/symeon.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Συμεών ο Νέος Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-025",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Συμεών ο Νέος Θεολόγος",
+      "url": "https://docs.google.com/presentation/d/1xl11UJ30u5q7G9aRwJ3mmclVbqY1b7T4Ork2II6UMwg",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Συμεών ο Νέος Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-116",
+      "type": "image",
+      "title": "Συμεών ο Νέος Θεολόγος — Ο πνευματικός οδηγός",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/symeon/01-elder.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Συμεών ο Νέος Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-014",
+      "type": "document",
+      "title": "Συμεών ο Νέος Θεολόγος — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/symeon/symeon-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Συμεών ο Νέος Θεολόγος",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-040",
+      "type": "video",
+      "title": "Γρηγόριος Παλαμάς — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/palamas/palamas.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος Παλαμάς",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικοί υπότιτλοι, μουσική χωρίς αφήγηση. Πλήρεις έλεγχοι σύνθεσης και τελικού MP4.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-026",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Γρηγόριος Παλαμάς",
+      "url": "https://docs.google.com/presentation/d/17v72Sbvei8ZObDkfTC3qRDPtPHhqzPWFkpw3maiam0A",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος Παλαμάς",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια. Ο χρήστης επέτρεψε προβολή με τον σύνδεσμο· ελέγχθηκε η ανώνυμη πρόσβαση.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-117",
+      "type": "image",
+      "title": "Γρηγόριος Παλαμάς — Άγιον Όρος",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/palamas/01-athos.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος Παλαμάς",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Πρωτότυπη επιλεγμένη εικόνα έναρξης της εγκεκριμένης σειράς. Πλήρες PNG 1672×941, χωρίς περικοπή. Όλες οι επτά εικόνες διατηρούνται ως ανεξάρτητα αρχεία στο αρχείο υλικού της σειράς.",
+      "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-015",
+      "type": "document",
+      "title": "Γρηγόριος Παλαμάς — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/palamas/palamas-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Γρηγόριος Παλαμάς",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-13",
+      "status": "active"
     }
   ]
 }
