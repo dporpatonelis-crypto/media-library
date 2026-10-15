@@ -2,7 +2,7 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-15",
     "total": 217
   },
   "media": [
@@ -3645,7 +3645,7 @@
       "title": "Η πορεία του Αβραάμ — Βίντεο 45″",
       "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/old-testament-journeys/abraham-journey.mp4",
       "source_platform": "GitHub Pages / HyperFrames",
-      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: That’s the Way It Is. Render και έλεγχος ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-abraham-journey"
+      "notes": "7 εγκεκριμένες εικόνες, 1920×1080, 30 fps, ήπιες κινήσεις και μεταβάσεις, χωρίς αφήγηση. Μουσική επιλογής χρήστη: That’s the Way It Is. Render και έλεγχος ολοκληρώθηκαν τοπικά στο Mac mini. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-abraham-journey Διόρθωση 2026-10-15: η τρίτη εικόνα «Διαθήκη — άστρα» αντικαταστάθηκε με έκδοση δύο χεριών. Επαναπαραγωγή HyperFrames 0.8.162, 45″, 1920×1080, 30 fps. Διατηρήθηκαν αυτούσια τα αρχικά πακέτα ήχου."
     },
     {
       "app_context": [
@@ -3666,7 +3666,7 @@
       "title": "Η πορεία του Αβραάμ — 7 διαφάνειες",
       "url": "https://docs.google.com/presentation/d/1obhHzxFimu8ecB2zpNyAu73Ogv7RB3CuJaeOn0yxmcg/edit?usp=drivesdk",
       "source_platform": "Google Drive",
-      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια, τίτλος και μικρός υπότιτλος στη μορφή της προεπισκόπησης. Η άδεια προβολής με σύνδεσμο επαληθεύθηκε· επεξεργασία μόνο από τον κάτοχο. Οπτικός έλεγχος του native PDF εξαγωγής. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-abraham-journey"
+      "notes": "7 επεξεργάσιμες διαφάνειες 16:9, μία εγκεκριμένη εικόνα ανά διαφάνεια, τίτλος και μικρός υπότιτλος στη μορφή της προεπισκόπησης. Η άδεια προβολής με σύνδεσμο επαληθεύθηκε· επεξεργασία μόνο από τον κάτοχο. Οπτικός έλεγχος του native PDF εξαγωγής. https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/#section-abraham-journey Διόρθωση 2026-10-15: αντικαταστάθηκε μόνο η εικόνα στην τρίτη διαφάνεια (abraham_slide_03), με δύο χέρια. Ελέγχθηκαν και οι 7 διαφάνειες από νέα εγγενή εξαγωγή PDF."
     },
     {
       "app_context": [
