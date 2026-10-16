@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-15",
-    "total": 217
+    "last_updated": "2026-10-16",
+    "total": 218
   },
   "media": [
     {
@@ -5266,6 +5266,27 @@
       "language": "el",
       "notes": "Εξαγωγή PDF της πραγματικής εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
       "date_added": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-027",
+      "type": "slides",
+      "title": "Η πορεία του Μωυσή — 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1tGtzUA6LYmHZ4T2yoQxvImcH3XSoL4_VpcPkB_jXfUs/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-001",
+      "tags": [
+        "Παλαιά Διαθήκη",
+        "Μωυσής",
+        "βιβλική πορεία"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια από τις ίδιες εικόνες με το βίντεο του Μωυσή. Πρόσβαση με σύνδεσμο: μόνο προβολή.",
+      "date_added": "2026-10-16",
       "status": "active"
     }
   ]
