@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-16",
-    "total": 218
+    "last_updated": "2026-10-17",
+    "total": 226
   },
   "media": [
     {
@@ -5287,6 +5287,182 @@
       "language": "el",
       "notes": "Επτά επεξεργάσιμες διαφάνειες 16:9, μία εικόνα ανά διαφάνεια από τις ίδιες εικόνες με το βίντεο του Μωυσή. Πρόσβαση με σύνδεσμο: μόνο προβολή.",
       "date_added": "2026-10-16",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-118",
+      "type": "image",
+      "title": "Ιωάννης Δαμασκηνός — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/john-damascene/05-fount-of-knowledge.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Δαμασκηνός",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένη νεοβυζαντινή εικόνα, παραγμένη με ImageGen. Πλήρες PNG 1672×941. Οι επτά πρωτότυπες εικόνες της διαδρομής διατηρούνται χωριστά.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-041",
+      "type": "video",
+      "title": "Ιωάννης Δαμασκηνός — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/john-damascene/john-damascene.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Δαμασκηνός",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικές λεζάντες, μουσική χωρίς αφήγηση. Έλεγχος σύνθεσης και αποκωδικοποίηση τελικού MP4.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-028",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Ιωάννης Δαμασκηνός",
+      "url": "https://docs.google.com/presentation/d/1DUD6KwTy-r_4ANWNn9JeaKt6q6781ae33O8iYUZkOJg",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Δαμασκηνός",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες εγγενείς διαφάνειες Google Slides, στο υπάρχον πρότυπο της σειράς. Έγινε οπτικός έλεγχος όλων των σελίδων και έλεγχος κειμένων.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-016",
+      "type": "document",
+      "title": "Ιωάννης Δαμασκηνός — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/john-damascene/john-damascene-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Ιωάννης Δαμασκηνός",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-119",
+      "type": "image",
+      "title": "Άγιος Σωφρόνιος Σαχάρωφ — εκπαιδευτική εικονογράφηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/sophrony/07-essex.png",
+      "source_platform": "ImageGen / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Άγιος Σωφρόνιος Σαχάρωφ",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένη νεοβυζαντινή εικόνα, παραγμένη με ImageGen. Πλήρες PNG 1672×941. Οι επτά πρωτότυπες εικόνες της διαδρομής διατηρούνται χωριστά.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-042",
+      "type": "video",
+      "title": "Άγιος Σωφρόνιος Σαχάρωφ — βίος και διδασκαλία",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/sophrony/sophrony.mp4",
+      "source_platform": "HyperFrames / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Άγιος Σωφρόνιος Σαχάρωφ",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες νεοβυζαντινές σκηνές, 45 δευτερόλεπτα, 1920×1080, 30fps, ελληνικές λεζάντες, μουσική χωρίς αφήγηση. Έλεγχος σύνθεσης και αποκωδικοποίηση τελικού MP4.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-029",
+      "type": "slides",
+      "title": "Ο βίος και η διδασκαλία: Άγιος Σωφρόνιος Σαχάρωφ",
+      "url": "https://docs.google.com/presentation/d/1KQHzl3Gyty29dr7x142ja3RnwDRJJztDuIYNBuduqzg",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Άγιος Σωφρόνιος Σαχάρωφ",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Επτά επεξεργάσιμες εγγενείς διαφάνειες Google Slides, στο υπάρχον πρότυπο της σειράς. Έγινε οπτικός έλεγχος όλων των σελίδων και έλεγχος κειμένων.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-017",
+      "type": "document",
+      "title": "Άγιος Σωφρόνιος Σαχάρωφ — διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/church-fathers-journeys/sophrony/sophrony-slides.pdf",
+      "source_platform": "Google Slides / GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Άγιος Σωφρόνιος Σαχάρωφ",
+        "βίος",
+        "διδασκαλία",
+        "νεοβυζαντινή εικονογράφηση"
+      ],
+      "language": "el",
+      "notes": "Εξαγωγή PDF της εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-17",
       "status": "active"
     }
   ]
