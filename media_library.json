@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-17",
-    "total": 226
+    "total": 228
   },
   "media": [
     {
@@ -5462,6 +5462,50 @@
       ],
       "language": "el",
       "notes": "Εξαγωγή PDF της εγγενούς παρουσίασης Google Slides. Επτά διαφάνειες, οπτικά ελεγμένες.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-120",
+      "type": "image",
+      "title": "Από την Εδέμ στον Σταυρό",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/fall-restoration/eden-to-cross.png",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "Πτώση και Αποκατάσταση",
+        "Εδέμ",
+        "Σταυρός",
+        "Ανάσταση"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο πρωτότυπο PNG του δημιουργού, διατηρημένο χωρίς περικοπή ή άλλη επεξεργασία· 1774×887 RGB. Εικαστική σύνοψη της πορείας από την Εδέμ στον Σταυρό.",
+      "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-121",
+      "type": "image",
+      "title": "Μικρογραφία του Κήπου της Εδέμ",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/fall-restoration/garden-miniature.png",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "Πτώση και Αποκατάσταση",
+        "Εδέμ",
+        "Κήπος",
+        "διαφανές φόντο"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο PNG του δημιουργού με διαφανές φόντο, διατηρημένο χωρίς επεξεργασία· 1402×1122 RGBA. Συμβολική μικρογραφία του Κήπου της Εδέμ.",
       "date_added": "2026-10-17",
       "status": "active"
     }
