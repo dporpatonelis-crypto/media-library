@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-17",
-    "total": 228
+    "last_updated": "2026-10-19",
+    "total": 229
   },
   "media": [
     {
@@ -5507,6 +5507,32 @@
       "language": "el",
       "notes": "Επιλεγμένο PNG του δημιουργού με διαφανές φόντο, διατηρημένο χωρίς επεξεργασία· 1402×1122 RGBA. Συμβολική μικρογραφία του Κήπου της Εδέμ.",
       "date_added": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-018",
+      "type": "drive",
+      "title": "Quiz Ιεροσολύμων — Σκιά και Πλήρωση / Πεντηκοστή",
+      "url": "https://drive.google.com/file/d/11wnDMCi8mRrV3XhX5CI74E_0Xcujxm3E/view?usp=sharing",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "MindPalace3D",
+        "Web"
+      ],
+      "unit_id": "",
+      "tags": [
+        "Σκιά και Πλήρωση",
+        "Πεντηκοστή",
+        "Ιεροσόλυμα",
+        "quiz",
+        "αντιστοίχιση",
+        "HTML",
+        "tablet"
+      ],
+      "language": "el",
+      "notes": "Αυτόνομο αρχείο HTML με δύο σενάρια, εικόνες και ύμνους αναφοράς. Λήψη από Drive και άνοιγμα σε browser· λειτουργεί χωρίς internet. Δημόσια προβολή μέσω συνδέσμου (anyone/reader). Κοινός σύνδεσμος για lesson-001 / Ιερουσαλήμ και lesson-002 / Επιλεγμένο υλικό Πεντηκοστής.",
+      "date_added": "2026-10-19",
       "status": "active"
     }
   ]
