@@ -3,7 +3,7 @@
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
     "last_updated": "2026-10-22",
-    "total": 241
+    "total": 245
   },
   "media": [
     {
@@ -5796,6 +5796,94 @@
       ],
       "language": "el",
       "notes": "PDF επτά διαφανειών με τις ίδιες εγκεκριμένες εικόνες και λεζάντες της παρουσίασης PowerPoint.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-047",
+      "type": "video",
+      "title": "Πίστη και δογματική συνείδηση · Βίντεο 45 δευτερολέπτων",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/trinity-dogma/trinity-dogma.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "δογματική συνείδηση",
+        "Σωφρόνιος Σαχάρωφ"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές: δόγμα, συμβολική απεικόνιση και εφαρμογή στη ζωή. Εκπαιδευτική παράφραση του εγγράφου «Δογματική Συνείδηση». Ίδιο τοπικό MP4 με τον σταθμό της Unity: 45″, 1080p30, μουσική χωρίς εκφώνηση.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-034",
+      "type": "slides",
+      "title": "Πίστη και δογματική συνείδηση · Google Slides · 7 διαφάνειες",
+      "url": "https://docs.google.com/presentation/d/1z3aTR6G9M6K2DbyN9Izi6HxJewJvkt4sqIKyHXgQYvM/edit?usp=sharing",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "δογματική συνείδηση",
+        "Σωφρόνιος Σαχάρωφ"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές: δόγμα, συμβολική απεικόνιση και εφαρμογή στη ζωή. Εκπαιδευτική παράφραση του εγγράφου «Δογματική Συνείδηση». Ίδιες εικόνες και λεζάντες με το εγκεκριμένο βίντεο. Δημόσια παρουσίαση που παρείχε ο χρήστης (anyone with the link).",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-035",
+      "type": "slides",
+      "title": "Πίστη και δογματική συνείδηση · PowerPoint · 7 διαφάνειες",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/trinity-dogma/trinity-dogma-slides.pptx",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "δογματική συνείδηση",
+        "Σωφρόνιος Σαχάρωφ"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές: δόγμα, συμβολική απεικόνιση και εφαρμογή στη ζωή. Εκπαιδευτική παράφραση του εγγράφου «Δογματική Συνείδηση». Ίδιες εικόνες και λεζάντες με το εγκεκριμένο βίντεο.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-023",
+      "type": "document",
+      "title": "Πίστη και δογματική συνείδηση · Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/trinity-dogma/trinity-dogma-slides.pdf",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "δογματική συνείδηση",
+        "Σωφρόνιος Σαχάρωφ"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές: δόγμα, συμβολική απεικόνιση και εφαρμογή στη ζωή. Εκπαιδευτική παράφραση του εγγράφου «Δογματική Συνείδηση». Ίδιες εικόνες και λεζάντες με το εγκεκριμένο βίντεο.",
       "date_added": "2026-10-22",
       "status": "active"
     }
