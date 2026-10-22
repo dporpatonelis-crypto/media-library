@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-19",
-    "total": 229
+    "last_updated": "2026-10-22",
+    "total": 241
   },
   "media": [
     {
@@ -5533,6 +5533,270 @@
       "language": "el",
       "notes": "Αυτόνομο αρχείο HTML με δύο σενάρια, εικόνες και ύμνους αναφοράς. Λήψη από Drive και άνοιγμα σε browser· λειτουργεί χωρίς internet. Δημόσια προβολή μέσω συνδέσμου (anyone/reader). Κοινός σύνδεσμος για lesson-001 / Ιερουσαλήμ και lesson-002 / Επιλεγμένο υλικό Πεντηκοστής.",
       "date_added": "2026-10-19",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-043",
+      "type": "video",
+      "title": "Αναζήτηση του Θείου · Βίντεο 45 δευτερολέπτων",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/divine-search/divine-search.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-004",
+      "tags": [
+        "Αναζήτηση του Θείου",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές, 45 δευτερόλεπτα, 1920×1080, 30 fps, ελληνικές λεζάντες, μουσική χωρίς εκφώνηση. Ίδιο τελικό αρχείο με τη σκηνή Χριστιανισμού της Unity.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-030",
+      "type": "slides",
+      "title": "Αναζήτηση του Θείου · PowerPoint · 7 διαφάνειες",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/divine-search/divine-search-slides.pptx",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-004",
+      "tags": [
+        "Αναζήτηση του Θείου",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά διαφάνειες PowerPoint με ενσωματωμένες τις εγκεκριμένες εικόνες και επεξεργάσιμα ελληνικά κείμενα. Παραπομπές ανά διαφάνεια στις σημειώσεις.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-019",
+      "type": "document",
+      "title": "Αναζήτηση του Θείου · Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/divine-search/divine-search-slides.pdf",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-004",
+      "tags": [
+        "Αναζήτηση του Θείου",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "PDF επτά διαφανειών με τις ίδιες εγκεκριμένες εικόνες και λεζάντες της παρουσίασης PowerPoint.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-044",
+      "type": "video",
+      "title": "Δημιουργία και ανθρώπινη ελευθερία · Βίντεο 45 δευτερολέπτων",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/creation/creation.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "Δημιουργία και ανθρώπινη ελευθερία",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές, 45 δευτερόλεπτα, 1920×1080, 30 fps, ελληνικές λεζάντες, μουσική χωρίς εκφώνηση. Ίδιο τελικό αρχείο με τη σκηνή Χριστιανισμού της Unity.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-031",
+      "type": "slides",
+      "title": "Δημιουργία και ανθρώπινη ελευθερία · PowerPoint · 7 διαφάνειες",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/creation/creation-slides.pptx",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "Δημιουργία και ανθρώπινη ελευθερία",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά διαφάνειες PowerPoint με ενσωματωμένες τις εγκεκριμένες εικόνες και επεξεργάσιμα ελληνικά κείμενα. Παραπομπές ανά διαφάνεια στις σημειώσεις.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-020",
+      "type": "document",
+      "title": "Δημιουργία και ανθρώπινη ελευθερία · Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/creation/creation-slides.pdf",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "Δημιουργία και ανθρώπινη ελευθερία",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "PDF επτά διαφανειών με τις ίδιες εγκεκριμένες εικόνες και λεζάντες της παρουσίασης PowerPoint.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-045",
+      "type": "video",
+      "title": "Θάνατος και Ανάσταση · Βίντεο 45 δευτερολέπτων",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/death-resurrection/death-resurrection.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "Θάνατος και Ανάσταση",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές, 45 δευτερόλεπτα, 1920×1080, 30 fps, ελληνικές λεζάντες, μουσική χωρίς εκφώνηση. Ίδιο τελικό αρχείο με τη σκηνή Χριστιανισμού της Unity.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-032",
+      "type": "slides",
+      "title": "Θάνατος και Ανάσταση · PowerPoint · 7 διαφάνειες",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/death-resurrection/death-resurrection-slides.pptx",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "Θάνατος και Ανάσταση",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά διαφάνειες PowerPoint με ενσωματωμένες τις εγκεκριμένες εικόνες και επεξεργάσιμα ελληνικά κείμενα. Παραπομπές ανά διαφάνεια στις σημειώσεις.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-021",
+      "type": "document",
+      "title": "Θάνατος και Ανάσταση · Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/death-resurrection/death-resurrection-slides.pdf",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "Θάνατος και Ανάσταση",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "PDF επτά διαφανειών με τις ίδιες εγκεκριμένες εικόνες και λεζάντες της παρουσίασης PowerPoint.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-046",
+      "type": "video",
+      "title": "Κρίση — φως και πύρινος έλεγχος · Βίντεο 45 δευτερολέπτων",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/judgement-palamas/judgement-palamas.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κρίση — φως και πύρινος έλεγχος",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές, 45 δευτερόλεπτα, 1920×1080, 30 fps, ελληνικές λεζάντες, μουσική χωρίς εκφώνηση. Ίδιο τελικό αρχείο με τη σκηνή Χριστιανισμού της Unity.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-033",
+      "type": "slides",
+      "title": "Κρίση — φως και πύρινος έλεγχος · PowerPoint · 7 διαφάνειες",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/judgement-palamas/judgement-palamas-slides.pptx",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κρίση — φως και πύρινος έλεγχος",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "Επτά διαφάνειες PowerPoint με ενσωματωμένες τις εγκεκριμένες εικόνες και επεξεργάσιμα ελληνικά κείμενα. Παραπομπές ανά διαφάνεια στις σημειώσεις.",
+      "date_added": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-022",
+      "type": "document",
+      "title": "Κρίση — φως και πύρινος έλεγχος · Διαφάνειες PDF",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/christianity-study/judgement-palamas/judgement-palamas-slides.pdf",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity",
+        "HyperFrames"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "Κρίση — φως και πύρινος έλεγχος",
+        "πατερική ερμηνεία",
+        "Χριστιανισμός"
+      ],
+      "language": "el",
+      "notes": "PDF επτά διαφανειών με τις ίδιες εγκεκριμένες εικόνες και λεζάντες της παρουσίασης PowerPoint.",
+      "date_added": "2026-10-22",
       "status": "active"
     }
   ]
