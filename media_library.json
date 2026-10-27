@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-22",
-    "total": 245
+    "last_updated": "2026-10-27",
+    "total": 250
   },
   "media": [
     {
@@ -5886,6 +5886,125 @@
       "notes": "Επτά εγκεκριμένες εικονογραφημένες σκηνές: δόγμα, συμβολική απεικόνιση και εφαρμογή στη ζωή. Εκπαιδευτική παράφραση του εγγράφου «Δογματική Συνείδηση». Ίδιες εικόνες και λεζάντες με το εγκεκριμένο βίντεο.",
       "date_added": "2026-10-22",
       "status": "active"
+    },
+    {
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control",
+        "Animated Concept Canvas"
+      ],
+      "language": "el",
+      "date_added": "2026-10-27",
+      "status": "active",
+      "media_id": "WEB-005",
+      "type": "website",
+      "title": "Αγία Τριάδα · Αναλόγιο για μικρότερες ηλικίες",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/apps/animated-concept-canvas/index.html#unit=basics",
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "Θεία Οικονομία",
+        "βασικές έννοιες",
+        "αναλόγιο",
+        "αποκάλυψη εικόνας"
+      ],
+      "notes": "Έξι σύντομα παζλ για τα Πρόσωπα της Αγίας Τριάδας, την ενανθρώπιση, το όνομα Ιησούς Χριστός, τη φανέρωση και την Πεντηκοστή/μυστήρια. Κάρτες με στοχευμένη αποκάλυψη εικόνων ImageGen. Ανοίγει στη βασική ενότητα· αυτοτελές HTML, λειτουργεί και offline μετά τη λήψη."
+    },
+    {
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control",
+        "Animated Concept Canvas"
+      ],
+      "language": "el",
+      "date_added": "2026-10-27",
+      "status": "active",
+      "media_id": "WEB-006",
+      "type": "website",
+      "title": "Αγία Τριάδα · Αναλόγιο εμβάθυνσης",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/apps/animated-concept-canvas/index.html#unit=advanced",
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "δογματική συνείδηση",
+        "περιχώρηση",
+        "αναλόγιο",
+        "αποκάλυψη εικόνας"
+      ],
+      "notes": "Πέντε παζλ από τις πρώτες πέντε ερωτήσεις του δοσμένου κουίζ Τριαδικής Θεολογίας. Σύνδεση, ακολουθία και τεκμήρια, με υποδείξεις και ερμηνεία. Αυτοτελές HTML με εικόνες ImageGen· άμεσος σύνδεσμος στην ενότητα εμβάθυνσης."
+    },
+    {
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control",
+        "Animated Concept Canvas"
+      ],
+      "language": "el",
+      "date_added": "2026-10-27",
+      "status": "active",
+      "media_id": "WEB-007",
+      "type": "website",
+      "title": "Δημιουργία · Αναλόγιο εννοιών",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/apps/animated-concept-canvas/creation-concepts.html",
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "Δημιουργία",
+        "κατ’ εικόνα",
+        "καθ’ ομοίωσιν",
+        "Πτώση",
+        "Ευχαριστία",
+        "αποκάλυψη εικόνας"
+      ],
+      "notes": "Πέντε επιλεγμένα θέματα από το δοσμένο κουίζ Πατερικής Θεολογίας. Ο μαθητής αντιστοιχίζει κάρτες, φωτίζει συγκεκριμένα ευρήματα της εικόνας και αιτιολογεί τη σύνδεση. Ξεχωριστό αυτοτελές HTML με ενσωματωμένες εικόνες ImageGen."
+    },
+    {
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control",
+        "Animated Concept Canvas"
+      ],
+      "language": "el",
+      "date_added": "2026-10-27",
+      "status": "active",
+      "media_id": "IMG-122",
+      "type": "image",
+      "title": "Η Βάπτιση στον Ιορδάνη · Αγία Τριάδα",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/concept-canvas/trinity-baptism.webp",
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Αγία Τριάδα",
+        "Βάπτιση",
+        "Θεοφάνεια",
+        "ImageGen"
+      ],
+      "notes": "Εικόνα ImageGen από τη βασική ενότητα του αναλογίου. Χρησιμοποιείται ως εικονογράφηση και σύνδεσμος προς τη δραστηριότητα στο Digital Book· οι περιοχές αποκάλυψης παραμένουν ενσωματωμένες στο HTML."
+    },
+    {
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control",
+        "Animated Concept Canvas"
+      ],
+      "language": "el",
+      "date_added": "2026-10-27",
+      "status": "active",
+      "media_id": "IMG-123",
+      "type": "image",
+      "title": "Ο άνθρωπος και η κτίση · Αναλόγιο Δημιουργίας",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/concept-canvas/creation-human.webp",
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "Δημιουργία",
+        "άνθρωπος",
+        "όριο",
+        "ImageGen"
+      ],
+      "notes": "Εικόνα ImageGen από το πρώτο παζλ της Δημιουργίας. Χρησιμοποιείται ως εικονογράφηση στο Digital Book· η πλήρης στοχευμένη αποκάλυψη λειτουργεί στο αντίστοιχο HTML."
     }
   ]
 }
