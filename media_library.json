@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-27",
-    "total": 250
+    "last_updated": "2026-10-28",
+    "total": 265
   },
   "media": [
     {
@@ -6005,6 +6005,321 @@
         "ImageGen"
       ],
       "notes": "Εικόνα ImageGen από το πρώτο παζλ της Δημιουργίας. Χρησιμοποιείται ως εικονογράφηση στο Digital Book· η πλήρης στοχευμένη αποκάλυψη λειτουργεί στο αντίστοιχο HTML."
+    },
+    {
+      "media_id": "DOC-024",
+      "type": "drive",
+      "title": "Ο μηχανισμός των αφηγήσεων · Ομόκεντροι δακτύλιοι",
+      "url": "https://drive.google.com/file/d/1bStII4PbGq75w41Cam0hn8FaL_bZf6kR/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-world-cosmologies",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Τρεις δακτύλιοι, τέσσερις γύροι και σύνθεση πρότασης. Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-025",
+      "type": "drive",
+      "title": "Οι κλωστές των τεσσάρων αφηγήσεων",
+      "url": "https://drive.google.com/file/d/1DJdjslsIl59Ex8CY9f_S_yhu0OTCC5XB/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-world-cosmologies",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Τέσσερις κάρτες πηγών, φωτεινές συνδέσεις και σύγκριση αφηγήσεων. Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-026",
+      "type": "drive",
+      "title": "Να αγαπάτε τα δέντρα! · Ο κήπος της φροντίδας",
+      "url": "https://drive.google.com/file/d/1zwgAyW7B2Rhg7fUi-5DlczsuuP_UTnq0/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-care-for-creation",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Έξι συνδέσεις πράξεων φροντίδας με την εικόνα. Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-027",
+      "type": "drive",
+      "title": "Το Σχέδιο της Θείας Οικονομίας · Φωτεινός χάρτης",
+      "url": "https://drive.google.com/file/d/1jmSyJQ96_Gd2EXC_jWdNKagGhejZN7gk/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Τέσσερις βασικές ενότητες, επιμέρους έννοιες και προοδευτική αποκάλυψη κειμένου. Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-028",
+      "type": "drive",
+      "title": "Επιστήμη και θρησκεία · Νους και καρδιά",
+      "url": "https://drive.google.com/file/d/1m1VD1hp6_bEpCrltrCtYq1ZD8hs-Fbk0/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-005",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Επτά έννοιες συνδέονται με σημεία της εικόνας. Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-029",
+      "type": "drive",
+      "title": "Οι οδύνες μετά την παρακοή · Φωτεινός χάρτης",
+      "url": "https://drive.google.com/file/d/1rSBAOEiMuA3pO2XRhgL7M-NfQcbZSg7L/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Έξι βασικές έννοιες και δύο συμπληρωματικά ευρήματα, με κείμενο της Γένεσης. Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-030",
+      "type": "drive",
+      "title": "Το Δέντρο της Διαθήκης · Πέντε σενάρια",
+      "url": "https://drive.google.com/file/d/1Kf2sPd09JSMkFcNdhV_EAK-IGX_WYJYV/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "HTML",
+        "ιδιωτικό",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ενημερωμένο αρχείο με πέντε σενάρια, μεταξύ τους «Ο άνθρωπος: δώρο και κλήση». Ιδιωτικό HTML: ο εκπαιδευτικός το κατεβάζει από το Drive και το ανοίγει τοπικά. Δημοσιεύονται μόνο μεταδεδομένα και σύνδεσμος· δεν κοινοποιείται αντίγραφο.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-008",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Ομόκεντροι δακτύλιοι · Πώς αρχίζει ο κόσμος;",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=eb45b52c072a82d82796#activity/unity%3Aworld_religions_cosmology",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-world-cosmologies",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-009",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Τέσσερις αφηγήσεις για τον κόσμο",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=f691de3125cadd1f0c8d#activity/unity%3Aworld_religions_cosmology",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-world-cosmologies",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-010",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Διαδραστικό βιβλίο · Το σχέδιο της Θείας Οικονομίας",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=284df9b465139f702b4e#activity/sb%3Ato-schedio-tis-theias-oikonomias",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-011",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Σταδιακή αποκάλυψη εικόνας · Δύο τρόποι γνώσης",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=82ec311e076b554cae00#activity/book%3Alesson-005",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-005",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-012",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Κλωστές πατερικών ερμηνειών",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=4d7271dbfb36a9aceda3#activity/unity%3Abyzantium_fall_restoration",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-fall-restoration",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-013",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Κυκλικό αναλόγιο · Δημιουργία, κατ’ εικόνα και νέα ζωή",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=29e35a1ee55b1a1edcbf#activity/book%3Alesson-creation-world",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-014",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Κυκλικό αναλόγιο · Ο κύκλος των χειρογράφων",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=0c184e859a520d9546be#activity/unity%3Achristianity_free_discovery",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-015",
+      "type": "website",
+      "title": "Περιγραφή στο Πιλοτήριο · Unity VR · Παρατηρητήριο του Χρόνου · Χώρος περιήγησης",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=e9acad1df56f8b4bf6cf#activity/unity%3Achronology_observatory",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-chronology-observatory",
+      "tags": [
+        "Unity VR",
+        "περιγραφή",
+        "συνέχεια μαθήματος"
+      ],
+      "language": "el",
+      "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
+      "date_added": "2026-10-28",
+      "status": "active"
     }
   ]
 }
