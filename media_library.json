@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-28",
-    "total": 265
+    "last_updated": "2026-10-31",
+    "total": 271
   },
   "media": [
     {
@@ -6319,6 +6319,132 @@
       "language": "el",
       "notes": "Σύνδεσμος στην περιγραφή της συγκεκριμένης τοπικής δραστηριότητας Unity. Ανοίγει το Πιλοτήριο· η εκτέλεση γίνεται μέσα στο Unity project. Δεν δημοσιεύεται αρχείο Unity.",
       "date_added": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-124",
+      "type": "image",
+      "title": "Αλεξάνδρεια μέσα στον χρόνο · Εικόνα από την αφήγηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/historical-contexts/alexandria.jpg",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Αλεξάνδρεια μέσα στον χρόνο",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο υλικό από την υπάρχουσα αφήγηση στη Βιβλιοθήκη του Χρόνου του MindPalaceVR. Πλήρης εικονογράφηση χωρίς περικοπή, ως εικόνα αναφοράς της αφήγησης.",
+      "date_added": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-048",
+      "type": "video",
+      "title": "Βίντεο · Αλεξάνδρεια μέσα στον χρόνο",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/historical-contexts/alexandria-history.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Αλεξάνδρεια μέσα στον χρόνο",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο υλικό από την υπάρχουσα αφήγηση στη Βιβλιοθήκη του Χρόνου του MindPalaceVR. Ίδια διάρκεια και πλήρες κάδρο, κωδικοποίηση H.264 για το βιβλίο.",
+      "date_added": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-036",
+      "type": "google_slides",
+      "title": "Google Slides · Αλεξάνδρεια μέσα στον χρόνο",
+      "url": "https://docs.google.com/presentation/d/1c6L0_nHnFeu2qUP6atJRzEjjncb1ntFdkkieVD2R8h4/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Αλεξάνδρεια μέσα στον χρόνο",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Εγγενής παρουσίαση Google Slides με 20 διαφάνειες, από την υπάρχουσα επιλεγμένη αφήγηση του MindPalaceVR. Επεξεργάσιμα ελληνικά κείμενα και αρχική εικονογράφηση.",
+      "date_added": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-125",
+      "type": "image",
+      "title": "Κωνσταντινούπολη του 4ου αιώνα · Εικόνα από την αφήγηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/historical-contexts/constantinople.jpg",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Κωνσταντινούπολη του 4ου αιώνα",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο υλικό από την υπάρχουσα αφήγηση στη Βιβλιοθήκη του Χρόνου του MindPalaceVR. Πλήρης εικονογράφηση χωρίς περικοπή, ως εικόνα αναφοράς της αφήγησης.",
+      "date_added": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-049",
+      "type": "video",
+      "title": "Βίντεο · Κωνσταντινούπολη του 4ου αιώνα",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/historical-contexts/constantinople-4c.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Κωνσταντινούπολη του 4ου αιώνα",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένο υλικό από την υπάρχουσα αφήγηση στη Βιβλιοθήκη του Χρόνου του MindPalaceVR. Ίδια διάρκεια και πλήρες κάδρο, κωδικοποίηση H.264 για το βιβλίο.",
+      "date_added": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-037",
+      "type": "google_slides",
+      "title": "Google Slides · Κωνσταντινούπολη του 4ου αιώνα",
+      "url": "https://docs.google.com/presentation/d/1bmGS2wus29BdFD20ASYGDGa-lUps35vi5RQx6MfBFN8/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Κωνσταντινούπολη του 4ου αιώνα",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Εγγενής παρουσίαση Google Slides με 6 διαφάνειες, από την υπάρχουσα επιλεγμένη αφήγηση του MindPalaceVR. Επεξεργάσιμα ελληνικά κείμενα και αρχική εικονογράφηση.",
+      "date_added": "2026-10-31",
       "status": "active"
     }
   ]
