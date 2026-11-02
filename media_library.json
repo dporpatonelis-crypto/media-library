@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-10-31",
-    "total": 271
+    "last_updated": "2026-11-02",
+    "total": 274
   },
   "media": [
     {
@@ -6445,6 +6445,69 @@
       "language": "el",
       "notes": "Εγγενής παρουσίαση Google Slides με 6 διαφάνειες, από την υπάρχουσα επιλεγμένη αφήγηση του MindPalaceVR. Επεξεργάσιμα ελληνικά κείμενα και αρχική εικονογράφηση.",
       "date_added": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "media_id": "IMG-126",
+      "type": "image",
+      "title": "Αθήνα και ελληνικός πολιτισμός · Εικόνα από την αφήγηση",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/historical-contexts/athens.jpg",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Αθήνα και ελληνικός πολιτισμός",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Επιλεγμένη εικονογράφηση από την αφήγηση της Αθήνας στη Βιβλιοθήκη του Χρόνου του MindPalaceVR. Η Εκκλησία του Δήμου στην Πνύκα, με πλήρες κάδρο χωρίς περικοπή.",
+      "date_added": "2026-11-02",
+      "status": "active"
+    },
+    {
+      "media_id": "VID-050",
+      "type": "video",
+      "title": "Βίντεο · Αθήνα και ελληνικός πολιτισμός",
+      "url": "https://dporpatonelis-crypto.github.io/interactive-books/Digital_Lessons/assets/historical-contexts/athens-history.mp4",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Αθήνα και ελληνικός πολιτισμός",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Αφήγηση 120 δευτερολέπτων από το MindPalaceVR, με 20 διαφορετικές εικόνες και συνεχή μουσική υπόκρουση χωρίς επανάληψη. Πλήρες κάδρο και κωδικοποίηση H.264 για το βιβλίο.",
+      "date_added": "2026-11-02",
+      "status": "active"
+    },
+    {
+      "media_id": "SLD-038",
+      "type": "google_slides",
+      "title": "Google Slides · Αθήνα και ελληνικός πολιτισμός",
+      "url": "https://docs.google.com/presentation/d/1yqoZgkbgzXRP180EnZB6bNkszlz9ANEf9fqyKs3O-wI/edit?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Unity VR"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "Ιστορικά πλαίσια",
+        "Αθήνα και ελληνικός πολιτισμός",
+        "Βιβλιοθήκη του Χρόνου"
+      ],
+      "language": "el",
+      "notes": "Εγγενής παρουσίαση Google Slides με τις 20 εικόνες της αφήγησης και σύντομους, επεξεργάσιμους ελληνικούς τίτλους, κατά το πρότυπο της Αλεξάνδρειας. Προβολή για όποιον έχει τον σύνδεσμο.",
+      "date_added": "2026-11-02",
       "status": "active"
     }
   ]
