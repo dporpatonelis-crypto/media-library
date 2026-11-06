@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-11-02",
-    "total": 274
+    "last_updated": "2026-11-06",
+    "total": 285
   },
   "media": [
     {
@@ -6508,6 +6508,256 @@
       "language": "el",
       "notes": "Εγγενής παρουσίαση Google Slides με τις 20 εικόνες της αφήγησης και σύντομους, επεξεργάσιμους ελληνικούς τίτλους, κατά το πρότυπο της Αλεξάνδρειας. Προβολή για όποιον έχει τον σύνδεσμο.",
       "date_added": "2026-11-02",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-031",
+      "type": "drive",
+      "title": "Ιστορικοί κόσμοι · Εύρεση περιόδου",
+      "url": "https://drive.google.com/file/d/1dJZHuJzNIg7B-Yh2JsKmwtR_otqM2GL_/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "HTML",
+        "ιστορικά πλαίσια",
+        "χρονολόγηση",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Τέσσερις πολιτισμικές περιοχές και ιστορικές περίοδοι. Αντιστοιχεί στις ενότητες «Ιστορικά πλαίσια» και «Παρατηρητήριο του Χρόνου». Το HTML είναι ιδιωτικό στο Drive· ο εκπαιδευτικός το κατεβάζει με τον λογαριασμό του και το ανοίγει τοπικά. Δεν αλλάζουν τα δικαιώματα.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-032",
+      "type": "drive",
+      "title": "Η γνωστική μας διαδρομή · Κατ’ εικόνα, Τάλαντα, Άγιος Λουκάς",
+      "url": "https://drive.google.com/file/d/1jiGpW-SNz_pIEP_fOdUyyOlqKu315LxD/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "HTML",
+        "κατ’ εικόνα",
+        "τάλαντα",
+        "Άγιος Λουκάς",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Συνδέει το κατ’ εικόνα, την παραβολή των ταλάντων και την προσφορά του Αγίου Λουκά σε γνωστική διαδρομή. Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-033",
+      "type": "drive",
+      "title": "Άγιος Λουκάς ο Ιατρός · Μια διαδρομή προσφοράς",
+      "url": "https://drive.google.com/file/d/1Ko8gjsGL-vHako6sN4ngfolgt5i6yFdJ/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "HTML",
+        "Άγιος Λουκάς",
+        "προσφορά",
+        "τάλαντα",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Βιογραφική διαδρομή του Αγίου Λουκά, συνδεδεμένη με το ανθρώπινο δώρο και την κλήση. Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-034",
+      "type": "drive",
+      "title": "Αθήνα και ελληνικός πολιτισμός · Φωτεινός χάρτης",
+      "url": "https://drive.google.com/file/d/1yTLMn5tX-lts-46pj6LA7xaS779G7BVE/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-historical-contexts",
+      "tags": [
+        "HTML",
+        "Αθήνα",
+        "ελληνικός πολιτισμός",
+        "ιστορικά πλαίσια",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Φωτεινός χάρτης για την Αθήνα και τον ελληνικό πολιτισμό. Αντιστοιχεί στην ενότητα «Αθήνα και ελληνικός πολιτισμός» και λειτουργεί ως ιστορικό υπόβαθρο για την Αρχαία Αγορά. Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-035",
+      "type": "drive",
+      "title": "Παύλος · Από διώκτης των Χριστιανών, Απόστολος των Εθνών",
+      "url": "https://drive.google.com/file/d/1t7WlD-mcqlCyP29xNQ0gdUXd0p6xDWKu/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "HTML",
+        "Απόστολος Παύλος",
+        "Καινή Διαθήκη",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Mind map για τη μεταστροφή και την αποστολή του Παύλου. Αντιστοιχεί στην ενότητα «Η πορεία του Παύλου». Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-036",
+      "type": "drive",
+      "title": "Παύλος · Απόστολος των Εθνών",
+      "url": "https://drive.google.com/file/d/1B25z5sAvAn47PBFhUnXCxxoes2ElDgKL/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "HTML",
+        "Απόστολος Παύλος",
+        "Απόστολος των Εθνών",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Αυτόνομη δραστηριότητα για την αποστολή του Παύλου στα έθνη. Αντιστοιχεί στην ενότητα «Η πορεία του Παύλου». Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-037",
+      "type": "drive",
+      "title": "Συγκεντρωτικό · Ομόκεντροι δακτύλιοι και κλωστές",
+      "url": "https://drive.google.com/file/d/1ZqB7vIbg_AAMioSkZjJgiwkdOuSOvDeP/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-world-cosmologies",
+      "tags": [
+        "HTML",
+        "κοσμολογίες",
+        "ομόκεντροι δακτύλιοι",
+        "αντιστοίχιση",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Συγκεντρωτική δραστηριότητα για τις αφηγήσεις δημιουργίας με δακτυλίους και συνδέσεις. Αντιστοιχεί στις ενότητες «Ο μηχανισμός των αφηγήσεων» και «Οι κλωστές των τεσσάρων αφηγήσεων». Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-038",
+      "type": "drive",
+      "title": "Αγία Τριάδα · Τα βασικά και η εμβάθυνση",
+      "url": "https://drive.google.com/file/d/1IcLpxXDd2TK2QbFyRfA7y95QJsGx8209/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-trinity-dogmatic-consciousness",
+      "tags": [
+        "HTML",
+        "Αγία Τριάδα",
+        "δογματική συνείδηση",
+        "εμβάθυνση",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Έξι βασικές και πέντε προχωρημένες δραστηριότητες. Αντιστοιχεί στις ενότητες «Τα βασικά με εικόνες και κάρτες» και «Αναλόγιο εμβάθυνσης». Οι δημόσιες εκδόσεις WEB-005 και WEB-006 παραμένουν διαθέσιμες. Ο σύνδεσμος Drive διατηρεί τα τρέχοντα δικαιώματα· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-039",
+      "type": "drive",
+      "title": "Η παραβολή των ταλάντων · Κείμενο και ύμνος",
+      "url": "https://drive.google.com/file/d/1ZUZE2aoj9grwUdi-WmSpKshE3t2KURou/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "HTML",
+        "τάλαντα",
+        "ύμνος",
+        "κατ’ εικόνα",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Συνδυάζει το κείμενο της παραβολής των ταλάντων με τον ύμνο «Ιδού σοι το τάλαντον». Αντιστοιχεί στον άνθρωπο ως δώρο και κλήση και συνδέεται με τη διαδρομή του Αγίου Λουκά. Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-040",
+      "type": "drive",
+      "title": "Πεντηκοστή · Φωτεινός χάρτης και σύνθεση ύμνου",
+      "url": "https://drive.google.com/file/d/1AC-vsYd-u92jFU-arSx1CZ5_w9GPjuOO/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "HTML",
+        "Πεντηκοστή",
+        "ύμνος",
+        "φωτεινός χάρτης",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Φωτεινός χάρτης και μουσική σύνθεση για την Πεντηκοστή. Αντιστοιχεί στην ενότητα «Πεντηκοστή: Από το Ιστορικό Υπερώο στην Οικουμενική Εκκλησία». Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "DOC-041",
+      "type": "drive",
+      "title": "Χριστός γεννάται · Διαδραστικός χάρτης ύμνου",
+      "url": "https://drive.google.com/file/d/1y2hVCIsg0oxhxnsxZi_ncNz2Ggpzo2HE/view?usp=drivesdk",
+      "source_platform": "Google Drive",
+      "app_context": [
+        "Interactive Books",
+        "Teaching Mission Control"
+      ],
+      "unit_id": "lesson-creation-world",
+      "tags": [
+        "HTML",
+        "Ενανθρώπηση",
+        "Χριστούγεννα",
+        "ύμνος",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Διαδραστική εργασία πάνω στον ύμνο «Χριστός γεννάται». Συμπληρωματικό υλικό για την Ενανθρώπηση και την επανόρθωση εν Χριστώ· το βιβλίο δεν έχει ξεχωριστή ενότητα Χριστουγέννων. Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
+      "date_added": "2026-11-06",
       "status": "active"
     }
   ]
