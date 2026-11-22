@@ -2,8 +2,8 @@
   "meta": {
     "description": "Media Library — Κεντρική Βιβλιοθήκη Πολυμέσων",
     "version": "1.0",
-    "last_updated": "2026-11-06",
-    "total": 285
+    "last_updated": "2026-11-22",
+    "total": 305
   },
   "media": [
     {
@@ -6758,6 +6758,386 @@
       "language": "el",
       "notes": "Διαδραστική εργασία πάνω στον ύμνο «Χριστός γεννάται». Συμπληρωματικό υλικό για την Ενανθρώπηση και την επανόρθωση εν Χριστώ· το βιβλίο δεν έχει ξεχωριστή ενότητα Χριστουγέννων. Ο σύνδεσμος χρησιμοποιεί τα τρέχοντα δικαιώματα του Drive· η δημόσια πρόσβαση δεν έχει επαληθευτεί.",
       "date_added": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-016",
+      "type": "website",
+      "title": "Μέγας Αθανάσιος · Ένας αγωνιστής ιεράρχης",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/saint-athanasius-journey.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής βάζει στη σειρά οκτώ σκηνές του βίου, από την Αλεξάνδρεια και τη Νίκαια έως τις εξορίες. Στη συνέχεια συνδέει φράσεις του απολυτικίου με γεγονότα του βίου.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-017",
+      "type": "website",
+      "title": "Μέγας Βασίλειος · Βίος, βιβλικά πρότυπα και απολυτίκιο",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/megas-vasileios.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής αντιστοιχίζει εικόνες και φράσεις από τον βίο του Μεγάλου Βασιλείου και εξετάζει πώς συνδέονται με βιβλικά πρότυπα και με το απολυτίκιό του.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-018",
+      "type": "website",
+      "title": "Άγιος Γρηγόριος ο Θεολόγος · Ένας ποιητής επίσκοπος",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/saint-gregory-theologian-journey.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Οκτώ σκηνές παρουσιάζουν τη φιλία με τον Βασίλειο, την άσκηση και την προσπάθεια του Γρηγορίου για την ειρήνη. Ο μαθητής συνθέτει βιογραφικές προτάσεις και μελετά απόσπασμα για το Άγιο Πνεύμα.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-019",
+      "type": "website",
+      "title": "Άγιος Ιωάννης ο Χρυσόστομος · Ο λόγος που γίνεται πράξη",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/saint-john-chrysostom-journey.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-church-fathers",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Οκτώ στάσεις οδηγούν από την Αντιόχεια έως την εξορία. Ο μαθητής συνδέει σκηνές με τη φροντίδα των φτωχών και τη στάση του Χρυσοστόμου απέναντι στην αδικία. Διαβάζει επίσης το απόσπασμα «Κιβωτός και παράδεισος».",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-020",
+      "type": "website",
+      "title": "Κείμενο, Γραφή και ύμνοι · Παράλληλα χωρία",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/patristic-scripture-cross-references.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-002",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής επιλέγει μια φράση του Γρηγορίου του Θεολόγου και βλέπει ποια σημεία φωτίζονται στην Αγία Γραφή ή στον αντίστοιχο ύμνο. Η δραστηριότητα περιλαμβάνει τέσσερα βιβλικά χωρία και τρεις ύμνους της Πεντηκοστής.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-021",
+      "type": "website",
+      "title": "Χριστός γεννάται · Διαδραστικός χάρτης ύμνου",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/christos-gennatai.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής αντιστοιχίζει τις τρεις προσκλήσεις του ύμνου με τις αποκρίσεις τους, βάζει τις φράσεις στη σειρά και συνδέει τα λόγια με τη μελωδία μέσω περιστρεφόμενων δακτυλίων.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-022",
+      "type": "website",
+      "title": "Ξένοι στον κόσμο, οικείοι του Θεού",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/diognetus-stranger.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-christian-life-and-service",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής επιλέγει τίτλους για αποσπάσματα της επιστολής «Προς Διόγνητον» και εξετάζει πώς περιγράφεται η ζωή των χριστιανών μέσα στον κόσμο. Έπειτα συνδέει το θέμα της ξενιτείας με τον ύμνο «Δός μοι τοῦτον τὸν ξένον».",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-023",
+      "type": "website",
+      "title": "Άγιος Λουκάς ο Ιατρός · Βίος, ύμνος και σχέσεις",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/saint-luke-relations.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-christian-life-and-service",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής συνθέτει προτάσεις για τον βίο του Λουκά, από την ιατρική του προσφορά έως τις εξορίες. Έπειτα συνδέει εικόνες και φράσεις του απολυτικίου για να δει πώς συναντιούνται η ιατρική και η διακονία.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-024",
+      "type": "website",
+      "title": "Αγία Φιλοθέη · Από την περιουσία στην προσφορά",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/saint-philothei-journey.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-christian-life-and-service",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Σε οκτώ σκηνές ο μαθητής ακολουθεί τη Ρηγούλα, τη μετέπειτα Αγία Φιλοθέη. Συνθέτει προτάσεις για τους τρόπους με τους οποίους στήριξε τη μάθηση, πρόσφερε φιλοξενία και προστάτευσε ανθρώπους σε ανάγκη.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-025",
+      "type": "website",
+      "title": "Θρησκείες του κόσμου · Πέντε διαδρομές μελέτης",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/world-religions-paths.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-world-religions",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής γνωρίζει τον Ιουδαϊσμό, το Ισλάμ, τον Ινδουισμό, τον Βουδισμό και την αρχαία ελληνική θρησκεία. Για κάθε παράδοση εξετάζει πέντε θέματα, από την αναζήτηση της αλήθειας και τη δημιουργία έως το θείο, τη ζωή μετά τον θάνατο και την κρίση.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-026",
+      "type": "website",
+      "title": "Το Δέντρο της Διαθήκης · διαδραστικές δραστηριότητες",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/lessons/dentro-diathikis-puzzle.html",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Πέντε δραστηριότητες με χειρόγραφα και εικόνες. Στο μενού «Σενάρια» ο μαθητής επιλέγει ποια διαδρομή θα ακολουθήσει.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-027",
+      "type": "website",
+      "title": "Χριστός γεννάται · Μουσική αντιστοίχιση στο Unity",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=260ed18ae62357dc3b73#activity/unity%3Achristos_gennatai_opening",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-003",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Ο μαθητής αντιστοιχίζει κάρτες στο κυκλικό αναλόγιο και συνδέει τις φράσεις του ύμνου με τη μελωδία σε τρεις δακτυλίους.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-028",
+      "type": "website",
+      "title": "Unity · Αναζήτηση της αλήθειας",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=eb026c845b687fb0adbc#activity/unity%3Aworld_religions_revelation_search",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-world-religions",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Σύγκριση των πέντε παραδόσεων στο δωμάτιο των θρησκειών.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-029",
+      "type": "website",
+      "title": "Unity · Το θείο",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=0632b8bcad4b8377d87e#activity/unity%3Aworld_religions_divine",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-world-religions",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Σύγκριση των πέντε παραδόσεων στο δωμάτιο των θρησκειών.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-030",
+      "type": "website",
+      "title": "Unity · Ζωή μετά τον θάνατο",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=c32f7b48084cb5e484c2#activity/unity%3Aworld_religions_afterlife",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-world-religions",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Σύγκριση των πέντε παραδόσεων στο δωμάτιο των θρησκειών.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-031",
+      "type": "website",
+      "title": "Unity · Η σημασία των πράξεων",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=eff5cf746457a678353c#activity/unity%3Aworld_religions_judgement",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-world-religions",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Σύγκριση των πέντε παραδόσεων στο δωμάτιο των θρησκειών.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-032",
+      "type": "website",
+      "title": "Unity · Το Δέντρο της Διαθήκης",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=d995172189b55d65a386#activity/sb%3A20261002_palaia-kai-kaini-diathiki-enotita",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Συλλογή παπύρων και αντιστοίχιση με την εικόνα στα Ιεροσόλυμα.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-033",
+      "type": "website",
+      "title": "Unity · Χάρτης της Αποκάλυψης",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=39dfe73c304ed4962d1e#activity/book%3Alesson-004",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Συλλογή χειρογράφων και ανασύνθεση εικόνας στο κυκλικό αναλόγιο.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-034",
+      "type": "website",
+      "title": "Unity · Πνευματική ελευθερία",
+      "url": "https://dporpatonelis-crypto.github.io/Browser-vr/?material=68fb8a528fb7e3df5b2e#activity/sculpture%3Aspiritual-freedom",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "Unity",
+        "Πιλοτήριο"
+      ],
+      "language": "el",
+      "notes": "Συνδέσεις παθών και θεραπείας με παπύρους και αποκάλυψη εικόνας.",
+      "date_added": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "media_id": "WEB-035",
+      "type": "website",
+      "title": "Βιβλιοθήκη διαδραστικών μαθημάτων HTML",
+      "url": "https://dporpatonelis-crypto.github.io/html-digital-library/",
+      "source_platform": "GitHub Pages",
+      "app_context": [
+        "Interactive Books"
+      ],
+      "unit_id": "lesson-foundations",
+      "tags": [
+        "HTML",
+        "εκπαιδευτική δραστηριότητα"
+      ],
+      "language": "el",
+      "notes": "Δημόσιος κατάλογος για άμεσο άνοιγμα των δραστηριοτήτων HTML.",
+      "date_added": "2026-11-22",
       "status": "active"
     }
   ]
